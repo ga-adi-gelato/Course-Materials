@@ -7,6 +7,6 @@
     * [Command Line](labs.md)
   * [Week 2](/markdown/labs/week2.md)
 * [Homeworks](homeworks.md)
-* Homeworks
+* [Homeworks](homeworks.md)
 * [Projects](projects.md)
 
