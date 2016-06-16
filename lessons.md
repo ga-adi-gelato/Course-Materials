@@ -1,2 +1,2 @@
-# ADI Course Materials
+# Lessons
 
