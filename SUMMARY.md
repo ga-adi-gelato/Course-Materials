@@ -1,4 +1,4 @@
 # Summary
 
-* ADI Course Materials
+* [ADI Course Materials](README.md)
 
