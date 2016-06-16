@@ -4,4 +4,5 @@
 * [Lessons](lessons.md)
 * [Labs](labs.md)
 * [Homeworks](homeworks.md)
+* Projects
 
