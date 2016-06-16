@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Lessons](lessons.md)
-* Labs
+* [Labs](labs.md)
 
