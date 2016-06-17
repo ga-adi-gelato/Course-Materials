@@ -3,7 +3,7 @@
 * [Home](README.md)
 * [Lessons](/markdown/lessons.md)
   * [Intro](/markdown/lessons/intro.md)
-    * [Your Learning Experience](/lessons/intro/your-learning-experience-lesson)
+    * [Your Learning Experience](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/intro/your-learning-experience-lesson)
     * [Intro to Android](/markdown/lessons.md)
   * [Command Line & Git](/markdown/lessons/git.md)
     * [Command Line](/markdown/lessons.md)
