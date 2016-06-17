@@ -5,6 +5,8 @@
   * [Intro](/markdown/lessons/intro.md)
     * [Your Learning Experience](lessons.md)
     * [Intro to Android](lessons.md)
+  * [Git](/markdown/lessons/git.md)
+    * [Git/Github Foundations](lessons.md)
   * [Java](/markdown/lessons/java.md)
     * [Data Types and Variables](lessons.md)
     * [Functions and Scope](lessons.md)
