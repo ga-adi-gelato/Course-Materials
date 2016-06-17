@@ -1,4 +1,4 @@
 # Introduction
 
-- [Your Learning Experience]()
+- [Your Learning Experience](/lessons/intro/your-learning-experience-lesson)
 - [Intro to Android]()
