@@ -13,5 +13,6 @@
        * [Command Line](https:/github.com/ga-adi-nyc/Command-Line-Lab)
 * [Homework](markdown/homework.md)
    * [Week 1](markdown/homeworks/week1.md)
+       * Data Types and Variables
 * [Projects](markdown/projects.md)
 
