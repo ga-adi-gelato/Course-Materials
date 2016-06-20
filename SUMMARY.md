@@ -4,7 +4,7 @@
 * [Lessons](/markdown/lessons.md)
   * [Intro](/markdown/lessons/intro.md)
     * [Your Learning Experience](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/intro/your-learning-experience-lesson)
-    * [Intro to Android](/markdown/lessons.md)
+    * [Intro to Android](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/intro/android-intro-lesson)
   * [Command Line & Git](/markdown/lessons/git.md)
     * [Command Line](/markdown/lessons.md)
   * [Java](/markdown/lessons/java.md)
