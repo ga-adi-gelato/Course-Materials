@@ -33,8 +33,6 @@ Android is not based on Apple or Microsoft technologies; it's a distribution of 
 
 Android is known for having many devices created by manufacturers (as opposed to iOS having a handful of devices and one manufacturer).
 
-> Check: Take 3 minutes and predict the pros and cons of having multiple devices from different companies? What are the drawbacks?
-
 **Pros**
 
 * More choices for the consumer
@@ -70,8 +68,6 @@ There are two things required to be a successful Android developer: Android Stud
 
 #### Android Studio
 
->Instructor Note: Open Android studio as you explain this section.
-
 An IDE ([Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment)) is an application that provides a way to program applications.
 
 Some popular ones are Visual Studio, Eclipse, and IntelliJ IDEA.
@@ -87,8 +83,6 @@ As you build and test your app, you have to run it on a device to make sure it b
 **1. Use a physical device** -  It's *almost always* best to use an actual phone or tablet to test your app. The users would be using your app on a phone, so testing on one is ideal. Try to have at least one phone nearby to test on.
 
 However, as mentioned in previous sections, there are many devices with varying screen sizes and a handful of versions for each device. Realistically, it's not possible to have access to every combination of device and version.
-
-> Check: To combat this issue, some developers believe in testing their app against the smaller selection of latest and more popular devices. Why would this possibly be a bad thing?
 
  Not everyone has the latest phones or versions.  You would be excluding a subset of people with older devices and versions who might be experiencing problems with you app that newer phones aren't experiencing.
 
@@ -115,7 +109,6 @@ Now that we know all of the tools, let's open and run an app in Android Studio.
 	* View > Tool Windows - General overview
 * Finally, let's run the app and build it to a device
 
-> Instructor Note: Walk students through building the application and the files and folders they'll be working out of. Additionally, walk through how to enable Developer Mode on their Android Devices. [Developer Mode Instructions](https://developer.android.com/tools/device.html)
 
 ## Conclusion (5 mins)
 
