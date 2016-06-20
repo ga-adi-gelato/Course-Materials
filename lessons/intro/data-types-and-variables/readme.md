@@ -59,7 +59,7 @@ By the end of this lesson you all should be able to perform simple tasks that us
 |Integers    | short, int, Integer, long, Long    | Whole numbers, with no delimiter. Can optionally have underscores to make large numbers easier to read	| 42, 1024, 1\_000\_000 |
 |Decimals    | float, Float, double, Double       | Decimals, with no delimiter                                   | '42.123', 2.5' |
 |Characters  | char                               | Single character, surrounded by single quotes                 | 'a', 'A'|
-|Strings     | String                             | Anything, surrounded by double quotes, with some exceptions        | "lots of kittens", "a lazy lizard", "", "10", "$\"    |                                                                | true, false
+|Strings     | String                             | Anything, surrounded by double quotes, with some exceptions        | "lots of kittens", "a lazy lizard", "", "10", "$"    |                                                                | true, false
 
 
 There are also a few odd ones:
