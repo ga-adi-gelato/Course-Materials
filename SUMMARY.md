@@ -8,7 +8,7 @@
   * [Command Line & Git](/markdown/lessons/git.md)
     * [Command Line](/markdown/lessons.md)
   * [Java](/markdown/lessons/java.md)
-    * [Data Types and Variables](/markdown/lessons.md)
+    * [Data Types and Variables](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/intro/data-types-and-variables)
 * [Labs](/markdown/labs.md)
   * [Week 1](/markdown/labs/week1.md)
     * [Command Line](https://github.com/ga-adi-nyc/Command-Line-Lab)
