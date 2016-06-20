@@ -13,4 +13,6 @@
   * [Week 1](/markdown/labs/week1.md)
     * [Command Line](https://github.com/ga-adi-nyc/Command-Line-Lab)
 * [Homeworks](/markdown/homeworks.md)
+  * [Week 1] (/markdown/homework/week1.md)
+    * [Data Types and Variables](https://github.com/ga-adi-nyc/Data-Types-and-Variables-HW)
 * [Projects](/markdown/projects.md)
