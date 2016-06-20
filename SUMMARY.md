@@ -11,6 +11,6 @@
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
        * [Command Line](https:/github.com/ga-adi-nyc/Command-Line-Lab)
-* [Homework](markdown/homework.md)
+* [Homework](markdown/homework.m)
 * [Projects](markdown/projects.md)
 
