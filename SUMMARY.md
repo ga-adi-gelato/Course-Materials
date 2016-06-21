@@ -1,7 +1,6 @@
 # Summary
 
 * [Home](README.md)
-* Java Essentials
 * [Lessons](markdown/lessons.md)
    * [Intro](markdown/lessons/intro.md)
        * [Your Learning Experience](https:/github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/intro/your-learning-experience-lesson)
