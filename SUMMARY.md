@@ -16,6 +16,6 @@
 * [Homework](markdown/homework.md)
    * [Week 1](markdown/homeworks/week1.md)
        * [Data Types and Variables](https:/github.com/ga-adi-nyc/Data-Types-and-Variables-HW)
-       * Functions and Scope HW
+       * [Functions and Scope HW](https://github.com/ga-adi-nyc/Functions-and-Scope-HW)
 * [Projects](markdown/projects.md)
 
