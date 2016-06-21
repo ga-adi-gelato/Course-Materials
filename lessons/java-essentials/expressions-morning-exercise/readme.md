@@ -8,7 +8,7 @@ creator:
 ---
 
 
-# Expressions Morning Exercise
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Expressions Morning Exercise
 
 * You will practice writing expressions
 * Revisit algebraic expressions and *order of operations*
