@@ -7,7 +7,7 @@
        * [Intro to Android](https:/github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/intro/android-intro-lesson)
    * [Command Line & Git](markdown/lessons/git.md)
        * [Command Line](https:/github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/command-line-and-git/command-line-lesson)
-       * [Git & Github](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/command-line-and-git/git/readme.md)
+       * [Git & Github](lessons/command-line-and-git/git/readme.md)
    * [Java Essentials](markdown/lessons/java.md)
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
