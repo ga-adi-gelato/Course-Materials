@@ -11,7 +11,6 @@
    * [Java Essentials](markdown/lessons/java.md)
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
-       * [Git & Github](https:/github.com/ga-adi-nyc/Git-Lab)
 * [Homework](markdown/homework.md)
    * [Week 1](markdown/homeworks/week1.md)
        * [Data Types and Variables](https:/github.com/ga-adi-nyc/Data-Types-and-Variables-HW)
