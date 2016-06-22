@@ -1,3 +1,3 @@
 # Homework
 
-- [Week 1](markdown/homeworks/week1.md)
+- [Week 1](homeworks/week1.md)
