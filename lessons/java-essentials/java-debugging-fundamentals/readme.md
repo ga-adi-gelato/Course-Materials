@@ -155,3 +155,7 @@ Find the bug using the techniques we learned today, and fix the bug.
 ## Conclusion (5 mins)
 
 Learning to debug well is a crucial skill, and what we covered today is a great way to start. Later in the course we will be covering some Android-specific tools, but what we learned today can apply to almost any programming language you might learn in the future.
+
+## Additional Resources
+
+- [Debugging Toolbar](https://www.jetbrains.com/help/idea/2016.1/debug-tool-window.html)
