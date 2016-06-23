@@ -19,12 +19,6 @@ creator:
 - Work with basic data types and assign variables
 - Create basic functions
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Gather materials needed for class
-- Complete prep work required
-- Prepare any specific instructions
-
 ---
 
 <a name="opening"></a>
