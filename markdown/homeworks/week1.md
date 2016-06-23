@@ -3,3 +3,4 @@
 - Monday 6/20: [Data Types and Variables HW](https://github.com/ga-adi-nyc/Data-Types-and-Variables-HW)
 - Tuesday 6/21: [Functions and Scope HW](https://github.com/ga-adi-nyc/Functions-and-Scope-HW)
 - Wednesday 6/22: Finish the [Advanced Functions Lab](https://github.com/ga-adi-nyc/Functions-Advanced-Lab)
+- Thursday 6/23: Finish the [Arrays and Lists Lab](https://github.com/ga-adi-nyc/Arrays-and-Lists-Lab) and make progress on [Project 0 - Rock/Paper/Scissors](https://github.com/ga-adi-nyc/Project-0---Rock-Paper-Scissors) (you'll have most of Friday to work Project 0 too)
