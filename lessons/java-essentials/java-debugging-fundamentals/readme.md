@@ -1,7 +1,7 @@
 ---
 title: Debugging Fundamentals in Java
 type: Lesson
-duration: "0:55"
+duration: "1:00"
 creator:
     name: James Davis
     city: NYC
@@ -51,6 +51,7 @@ public class Main {
     }
 }
 ```
+> Check: Give the students 1 minute to look at this and see if they can spot a problem.
 
 If we run this code, we get the following error in the console:
 
@@ -71,6 +72,7 @@ The second thing to concentrate on are the lines that have our file name(s) in i
 
 The number after the colon next to the file name is the line number the error occurred on. In our example, the error was in Main.java on line 11.
 
+> Check: What does the second line of the stack trace after the `printSomething` call mean?
 
 ## Demo: Stack Trace (5 mins)
 
@@ -91,6 +93,7 @@ public class Main {
 }
 ```
 
+> Check: Give the students 1 minute to look at the following code and see if they can spot an error.
 
 If we run this code, we get the following error.
 
@@ -105,12 +108,17 @@ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
 ```
 
+> Check: Give the students 1 minute to look at the stack trace, and then explain what they understood from it.
 
 The two errors we just saw, NullPointerException and ArrayIndexOutOfBoundsException are very common, so they are something you will probably see come up in your stack traces.
+
+> Check: How could we avoid the ArrayIndexOutOfBoundsException?
 
 ## Introduction: Breakpoints (10 mins)
 
 The second topic we are going to cover today is the Breakpoint. In general terms, a breakpoint is a position in the code you want to halt execution at.
+
+> Check: Ask the students why they think we would want to do this.
 
 Adding a breakpoint allows us to do a few very basic things:
 
@@ -118,6 +126,8 @@ Adding a breakpoint allows us to do a few very basic things:
 - Inspect the value of all variables in scope
 
 That second point can make debugging your code much faster. Instead of adding a lot of print statements to monitor your variables, you can just stop your code in place!
+
+> Check: Why are breakpoints cleaner for debugging than print statements?
 
 ## Demo: Breakpoints (10 mins)
 
@@ -131,6 +141,8 @@ Next, you need to run the program in debugging mode. Instead of pressing the Run
 
 The program should run, but a new window will pop up on the bottom, and you should see your code change slightly.
 
+> Instructor Note: Show how the Debugging console works
+
 <p align="center">
 <img src="./screenshots/breakpoint3.png"/>
 </p>
@@ -142,6 +154,12 @@ As you can see, the console now shows us the values of the variables, as well as
 
 Let's add one more breakpoint in main where we call the printSomethingArray method. If we initialize the array with a few values and re-run the program, you should see these values change, and the error should go away.
 
+> Check: How can you use breakpoints and a stack trace together?
+
+## Independent Practice: Using Breakpoints (5 mins)
+
+Modify the program to use a for loop to print all elements in the array. Try using the different tools that are provided with breakpoints to get used to using them.
+
 ## Independent Practice: Bug Fixing (10 mins)
 
 You have been provided the starter code for [a simple integer calculator](starter-code). Given that the user enters two numbers, a result is shown depending on what choice the user made from the main menu.
@@ -151,6 +169,8 @@ However, the division method is throwing an error in certain cases.
 **Hint: The problem occurs when the divisor is a certain number**
 
 Find the bug using the techniques we learned today, and fix the bug.
+
+ > Check: Were the students able to complete the assignment?
 
 ## Conclusion (5 mins)
 
