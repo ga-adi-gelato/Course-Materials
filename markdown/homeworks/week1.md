@@ -1,7 +1,7 @@
 # Week 1 Homework
 
 - Mon 6/20: [Data Types and Variables HW](https://github.com/ga-adi-nyc/Data-Types-and-Variables-HW) (solutions posted)
-- Tue 6/21: [Functions and Scope HW](https://github.com/ga-adi-nyc/Functions-and-Scope-HW)
+- Tue 6/21: [Functions and Scope HW](https://github.com/ga-adi-nyc/Functions-and-Scope-HW) (solutions posted)
 - Wed 6/22: Finish the [Advanced Functions Lab](https://github.com/ga-adi-nyc/Functions-Advanced-Lab)
 - Thu 6/23:
   - Finish the [Arrays and Lists Lab](https://github.com/ga-adi-nyc/Arrays-and-Lists-Lab)
