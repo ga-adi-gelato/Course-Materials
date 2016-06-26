@@ -5,6 +5,7 @@
    * [Intro](markdown/lessons/intro.md)
    * [Command Line & Git](markdown/lessons/git.md)
    * [Java Essentials](markdown/lessons/java.md)
+* [Week 2](markdown/week_2.md)
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
    * [Week 2](markdown/week_2.md)
