@@ -19,12 +19,6 @@ creator:
 - Work with basic data types and assign variables
 - Create basic functions
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Gather materials needed for class
-- Complete prep work required
-- Prepare any specific instructions
-
 ---
 
 <a name="opening"></a>
@@ -157,7 +151,7 @@ class Main {
 ####Searching
 What if we wanted to search if an array had a specific value?
 We'd have to loop through it and check each value to see if it's the value we want.
-We'll
+We'll learn more about this a little later.
 
 #### Out of bounds
 Say we have an array `myArray`, of size 10 of any data type, let's use `int` in this example.
@@ -203,7 +197,7 @@ class Main{
       tempArray[i] = favoriteThings[i];
       }
     }
-    tempArray[4] = "bright";
+    tempArray[4] = "bright copper kettles";
 
     //But that's not our favoriteThings array, its a tempArray.
     favoriteThings = tempArray;
@@ -291,8 +285,6 @@ Do you remember the syntax used in a for loop? We used it in the Control Flow le
 The for loop is also commonly used with arrays and collections to iterate through each of the elements and do something with each entry.
 
 For example, let's create a list of 5 movies and iterate through it, printing each one to the command line.
-
-> Instructor Note: Get movie suggestions from the class.
 
 ```java
   public static void main(String[] args) {
