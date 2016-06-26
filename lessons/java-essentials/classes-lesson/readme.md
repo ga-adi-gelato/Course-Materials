@@ -74,7 +74,7 @@ public class Animal {
 }
 
 // creating a new object of type Animal
-Animal aMoose = new Moose();
+Animal aMoose = new Animal("Moose", 500.0f);
 ```
 
 > Check: What are methods? How should they be defined and written?
