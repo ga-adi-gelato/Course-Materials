@@ -21,12 +21,6 @@ creator:
 * Recall basic knowledge of Java data types
 * Recall basic knowledge of method creation
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Gather materials needed for class
-- Complete Prep work required
-- Prepare any specific instructions
-
 ---
 
 ## Opening: What are classes? (5 minutes)
