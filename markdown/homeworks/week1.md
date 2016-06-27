@@ -8,4 +8,4 @@
   - Make progress on [Project 0 - Rock/Paper/Scissors](https://github.com/ga-adi-nyc/Project-0---Rock-Paper-Scissors) (you'll have most of Friday for this too)
 - Fri 6/24:
   - Submit your pull request for Project 0, even if it's missing some features!
-  - [Functions Weekend HW](https://github.com/ga-adi-nyc/Functions-Weekend-HW)
+  - [Functions Weekend HW](https://github.com/ga-adi-nyc/Functions-Weekend-HW) (solutions posted)
