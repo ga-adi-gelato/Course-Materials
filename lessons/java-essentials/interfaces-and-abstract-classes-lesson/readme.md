@@ -37,7 +37,7 @@ What if we wanted to set it up in a way that allows us to implement multiple cla
 logic, just in a different way for each class?
 Interfaces and Abstract Classes allow us to do that?
 
-> Check: Ask them to recall using List<String> aList = new ArrayList<>();
+> Check: Recall using List<String> aList = new ArrayList<>();
 
 ## Introduction: What are Abstract Classes? (20 minutes)
 
@@ -45,8 +45,6 @@ Abstract classes are basically classes that do a bunch of work for us but also a
 to do some work as well.
 
 Let's take a look at an example:
-
->Instructor Note: As students to create this class
 
 ```Java
 public class Animal{
@@ -69,8 +67,6 @@ public class Animal{
 ```
 
 Let's instantiate this in the main method.
-
->Instructor note: Ask students to instantiate the animal object and get the number of legs.
 
 ```Java
 public class Main{
@@ -135,9 +131,8 @@ public class Dog extends Animal {
 ```
 
 ### Independent Practice(15 min)
->Check: Ask students to create a Cat class, Bird class, Mouse, and Cow class that extends the Animal class and implements the abstract method.
+>Check: Create a Cat class, Bird class, Mouse, and Cow class that extends the Animal class and implements the abstract method.
 
->Instructor Note: go over the implementation and instantiation. (5 min)
 
 Let's go back to the main method and instantiate this Cat class.
 
@@ -158,7 +153,7 @@ public class Main{
 
 Let's create a few more classes that extend `Animal`.
 
->Check: Ask students to implement Frog, Elephant, Duck, Fish, Seal, and Fox classes that extend Animal
+>Check: Implement Frog, Elephant, Duck, Fish, Seal, and Fox classes that extend Animal
 
 ### What are Interfaces(20 min)
 
@@ -219,9 +214,7 @@ implements the methods for the interface, then I can ask if it can swim or fly.
 
 ### Independent practice (15 min)
 
->Check: Have students create 5 more interfaces to add to the Animal class
-
->Instructor Note: review the interfaces afterward
+>Check: Create 5 more interfaces to add to the Animal class
 
 ### Conclusion (5 min)
 
