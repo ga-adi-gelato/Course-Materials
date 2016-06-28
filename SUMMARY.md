@@ -10,5 +10,6 @@
    * [Week 2](markdown/week_2.md)
 * [Homework](markdown/homework.md)
    * [Week 1](markdown/homeworks/week1.md)
+   * Week 2
 * [Projects](markdown/projects.md)
 
