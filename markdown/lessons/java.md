@@ -7,3 +7,4 @@
 - [Debugging Fundamentals](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/java-debugging-fundamentals) (Thursday, 6/23)
 - [Organizing Information](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/organizing-info-lesson) (Monday, 6/27)
 - [Classes](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/classes-lesson) (Monday, 6/27)
+- [Subclasses](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/subclasses-lesson) (Tuesday, 6/28)
