@@ -33,8 +33,6 @@ creator:
 
 Today we will be expanding upon our last lesson about classes. We learned about the basic components of a class and how they are created, but they can do so much more. We will be learning about how classes interact with each other, and more specifically, how they are related to each other.
 
-> Check: Ask students to define what a class is, and how to instantiate one.
-
 ***
 
 <a name="introduction"></a>
@@ -44,13 +42,9 @@ One of the key ideas behind Object-Oriented Programming is defining relationship
 
 For instance, a NormalUser and an Admin can both be considered a subclass of a User. We can say that a NormalUser `is a` User, and that an Admin `is a` User. We could simply make the properties and methods inside of User for every type of User, but our code becomes much clearer if we make a separate subclasses to represent each specific type of User.
 
-> Check: Where have we seen subclassing before?
-
 ```java
 List<String> myList = new ArrayList<>();
 ```
-
-> Check: Ask the students to come up with another example of a superclass and a subclass.
 
 <a name="demo"></a>
 ## Demo: Topic (15 mins)
@@ -119,14 +113,8 @@ There are some important keywords to notice:
 
 What we have covered so far are all of the basics you need to build a class and create a subclass using it.
 
-> Check:  Ask the students to write Cube, another subclass of Shape, and to add a getVolume method
-
-> Check: How would we instantiate these? Could we add them in a list together?
-
 <a name="guided-practice"></a>
 ## Guided Practice: Subclassing (30 mins)
-
-> Make a new project
 
 This is a tricky topic, so let's get some more guided practice.  Follow along:
 Let's write a __Vehicle__ class with the  `mModel` and `mSpeed` member variable which are assigned on instantiation of the __Vehicle__.  How might we do that?
@@ -152,7 +140,6 @@ public class Vehicle {
     public float getSpeed(){return mSpeed;}
 }
 
-// creating a new object of type Car
 Vehicle mFirstCar = new Vehicle("Civic");
 ```
 
@@ -225,12 +212,8 @@ for (int i = 0; i < myVehicles.size(); i++) {
 }
 ```
 
-> Check: What would be the problem with this?
-
 <a name="ind-practice"></a>
 ## Independent Practice: Subclassing Cards (15 minutes)
-
-> Instructor Note: This can be a pair programming activity.
 
 Now, you are going to try implementing your own class and subclasses. Create a new project:
 
@@ -240,7 +223,6 @@ Now, you are going to try implementing your own class and subclasses. Create a n
 - Add any other properties you want
 - Instantiate your Classes and print out their member variables in a main method
 
-> Check: Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
 
 <a name="conclusion"></a>
 ## Conclusion (5 mins)
