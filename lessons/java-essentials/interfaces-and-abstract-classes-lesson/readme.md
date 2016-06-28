@@ -1,97 +1,230 @@
 ---
-title: Creating Classes
-type: lab
+title: Interfaces and Abstract Classes
 duration: "1:30"
 creator:
     name: Alan Caceres
     city: NYC
+---
+
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Classes
+
+### LEARNING OBJECTIVES
+*After this lesson, you will be able to:*
+- Describe the difference between interfaces and abstract classes
+- Describe why we would choose an interface over an abstract class and vice versa.
+- Declare and extend an abstract class
+- Declare an interface and implement it's required methods.
+
+### STUDENT PRE-WORK
+*Before this lesson, you should already be able to:*
+* Recall basic knowledge of Classes
+* Recall basic knowledge of method creation
+
+### INSTRUCTOR PREP
+*Before this lesson, instructors will need to:*
+- Gather materials needed for class
+- Complete Prep work required
+- Prepare any specific instructions
 
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Working with Interfaces and Abstract Classes
+## Opening: Interfaces and Abstract Classes; what are they? (5 minutes)
 
-#### Starter code
+When we created our classes in the previous lesson we had to implement everything.
+We had to set up the template of member variables, the constructors, and the methods.
+What if we wanted to just set up the template and not have to do all the work right then and there?
+What if we wanted to set it up in a way that allows us to implement multiple classes that do some
+logic, just in a different way for each class?
+Interfaces and Abstract Classes allow us to do that?
 
-There is no starter code.
-Create a new project in IntelliJ for this lab
+> Check: Ask them to recall using List<String> aList = new ArrayList<>();
 
-## Introduction
+## Introduction: What are Abstract Classes? (20 minutes)
 
-> ***Note:*** _This can be a pair programming activity or done independently._
+Abstract classes are basically classes that do a bunch of work for us but also asks the developer
+to do some work as well.
 
-In this lab you will be using your knowledge of classes, subclassing, interface and abstract class creation and implementation to create a few classes that will be used in the main method.
+Let's take a look at an example:
 
-**This looks like a lot. It is, but it is a lot of repetition.**
+>Instructor Note: As students to create this class
 
-## Exercise
+```Java
+public class Animal{
+  protected String mName = "";
+  protected int mNumOfLegs = 4;
 
-#### Requirements
+  public Animal(String name){
+    mName = name;
+  }
 
-##### Abstract Class
+  public int getNumOfLegs(){
+    return mNumOfLegs;
+  }
 
-- Create an abstract class called `Remote`.
+  public void setNumOfLegs(int numOfLegs){
+    mNumOfLegs = numOfLegs;
+  }
 
-- Give the abstract class the property needsBatteries and supportsUsb.
+}
+```
 
-- Create a constructor that accepts parameters to set the properties you just created.
+Let's instantiate this in the main method.
 
-- Create getters and setters for the properties.
+>Instructor note: Ask students to instantiate the animal object and get the number of legs.
 
-- Declare the following abstract methods, `channelUp`, `channelDown`, `volumeUp`, `volumeDown`; they all take no parameters and return nothing.
+```Java
+public class Main{
 
-- Implement
-`powerButtonPressed` that does not take any parameters and just prints out that the power button was pressed.
+  public static void main(String[] args){
 
-- Implement `numberButtonPressed`, that takes in an `int` parameter and appends/concatenates the `int` parameter to the `String` ```"Changing channel to " ``` then prints it out to the terminal.
+    Animal aCat = new Animal("cat");
+    int numOfLegs = aCat.getNumOfLegs();
 
-##### Interfaces
-- Create an interface class named `WaterProof`.
-- Inside this class, declare a method `isWaterProof`. **What do you think it should return?**
+  }
 
+}
+```
 
-- Create an interface class named `Rechargeable`.
-- Inside this class, declare a method `isRechargeable`. **What do you think it should return?**
+What if we wanted to also find out the sound that the animal makes?
+We could just add a method `setSound(String sound)`. A better way would be to make
+the class an abstract class and allow other classes to handle what sound the animal makes.
 
+```Java
+public abstract class Animal{
 
-- Create an interface class named `Universal`.
-- Inside this class, declare a method `supportsBrands`. It should return nothing.
+  protected String mName;
+  protected int mNumOfLegs;
 
-##### Concrete Class
-- Create three concrete classes that extends the abstract class `Remote`, name the concrete class one of your favorite brands. (Samsung, LG, Panasonic, Sony, etc.)
+  public Animal(String name){
+    mName = name;
+  }
 
-- Implement the methods you declared in the `Remote` abstract class which are required to be implemented in each concrete class.
+  public int getNumOfLegs(){
+    return mNumOfLegs;
+  }
 
-- Make sure the implementations output something different for each concrete class.
+  public void setNumOfLegs(int numOfLegs){
+    mNumOfLegs = numOfLegs;
+  }
 
-- Implement the `WaterProof`, `Rechargeable`, and `Universal` interfaces.
+  public abstract void says();
 
-- Implement the methods defined by those interfaces. You can choose what to do, but at the minimum print something out to the terminal.
+}
+```
 
-##### Main Java Class
-- Create a `List` of `Remote` objects.
+If we extend this abstract class we will see that we need to implement those abstract methods.
+This is the subclassing you learned earlier today, but this makes it slightly more robust.
 
-- Populate the `List` of `Remote` objects with new instances of the concrete classes you created.
+```Java
+public class Dog extends Animal {
 
-- Create a loop that loops as many times as there are items in the `List` of `Remote` objects. (You choose the kind of loop)
+    public Dog(){
+      super("dog");
+    }
 
-- Inside the loop call the `numberButtonPressed` method on each object and pass it the current iteration value of the loop.
+    public Dog(String name){
+      super(name);
+    }
 
-- Inside the loop call the `channelUp`, `channelDown`, `volumeUp`, `volumeDown` methods on each object.
+    @Override
+    public void says(){
+      System.out.println("woof");
+    }
 
-**Bonus:**
-- Create 3 more concrete classes that extend `Remote` and use them in the loop.
+}
+```
 
-- Create another interface, `FingerPrintScanner`, and declare a method `startScan` that accepts a `String` parameter.
+### Independent Practice(15 min)
+>Check: Ask students to create a Cat class, Bird class, Mouse, and Cow class that extends the Animal class and implements the abstract method.
 
-- In your classes, implement logic for the `startScan` method that will let you use the remote only when the correct input is given.
+>Instructor Note: go over the implementation and instantiation. (5 min)
 
-#### Deliverable
+Let's go back to the main method and instantiate this Cat class.
 
-Pull request from forked Project on GitHub that contains your implementation of the `Remote` abstract class, the `WaterProof`, `Rechargeable`, and `Universal` interface classes, and the main program that uses the classes you created.
+```Java
+public class Main{
 
-## Additional Resources
+  public static void main(String[] args){
 
-- Oracle: [Creating abstract classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
-- Oracle: [Creating an Interface](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html)
-- Oracle: [Defining a class](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
-- Oracle: [Instantiating a class](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
+    Animal theAnimal = new Cat();
+    int numOfLegs = theAnimal.getNumOfLegs();
+    theAnimal.says(); //This will print out meow
+    theAnimal = new Dog();
+    theAnimal.says(); //This can print out woof
+  }
+
+}
+```
+
+Let's create a few more classes that extend `Animal`.
+
+>Check: Ask students to implement Frog, Elephant, Duck, Fish, Seal, and Fox classes that extend Animal
+
+### What are Interfaces(20 min)
+
+Interfaces are a way to make another programmer do all the work for you. This makes heavy use of a concept called polymorphism.
+
+```Java
+public interface Flyable{
+
+ boolean canFly();
+
+}
+```
+
+```Java
+public interface Swimmable{
+
+  boolean canSwim();
+
+}
+```
+
+Polymorphism is a concept in computer programming that allows a program to ignore what class exactly is calling a method. It does not care that it is a Dog class or a Bird class, just that it implements certain methods.
+
+Let's look at another example:
+
+```Java
+public class Main{
+
+  public static void main(String[] args){
+
+    List<Animal> animals = new ArrayList<>();
+
+    animals.add(new Dog());
+    animals.add(new Cat());
+    animals.add(new Bird());
+    animals.add(new Mouse());
+    animals.add(new Cow());
+    animals.add(new Frog());
+    animals.add(new Elephant());
+    animals.add(new Duck());
+    animals.add(new Fish());
+    animals.add(new Seal());
+    animals.add(new Fox());
+
+    for(int i = 0; i < animals.size(); i++){
+      animals.get(i).says();
+      animals.get(i).canSwim();
+      animals.get(i).canFly();
+    }
+
+  }
+
+}
+```
+
+>Note: I didn't have to explicitly say what animal it was in the for loop. As long as it
+implements the methods for the interface, then I can ask if it can swim or fly.
+
+### Independent practice (15 min)
+
+>Check: Have students create 5 more interfaces to add to the Animal class
+
+>Instructor Note: review the interfaces afterward
+
+### Conclusion (5 min)
+
+We created classes, and learned how to subclass other classes for our own purposes in the previous lesson.
+In this lesson we learned how to architect our classes in a way that makes subclassing more robust.
+We also learned when and why we would use an abstract class over an interface. These are important concepts for everyone to understand and be able to explain the differences between them. Questions regarding polymorphism are standard practice in most programming interviews.
