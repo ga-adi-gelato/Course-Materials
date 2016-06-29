@@ -135,11 +135,14 @@ In your singleton class:
 - You don't need to add linked list member variables like the demo, but add a private String member variable and include a getter and setter method for it
 
 Create a Main class:
-- Create an instance of your singleton in `main()`
-- Use the singleton's setter method to put a message in its String variable
-- Create a new scope (hint: is another method in Main the same scope as `main()` or a different scope?)
-- In the separate scope, get a "new" instance of the singleton class
-- Finally, also in your separate scope, use the singleton's getter method, then print out the message you saved in order to confirm it's the same instance of the singleton
+- Create a `main()` method
+- Create a method named `addMessage()`
+  - In this method, create an instance of the singleton class
+  - Use the object's setter method to save a message to its String variable
+- Create a method named `viewMessage()`
+  - In this method, create another instance of the singleton class
+  - Use the object's getter method to access, then print the value from its String variable
+- Finally, in your `main()` method, call both `addMessage()` and `viewMessage()`. Remember that those methods each have their own *scope*. Does the value printed in `viewMessage()` match what you added in `addMessage()` even though they operate in different scopes?
 
 > Check: Were students able to create the desired deliverable?
 
