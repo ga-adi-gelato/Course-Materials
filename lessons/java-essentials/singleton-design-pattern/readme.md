@@ -31,7 +31,7 @@ creator:
 
 We've learned the basic syntax of Java and the mechanisms of inheritance, but now it's time to dive into *design patterns*, which are not a language-specific syntax, but instead a conceptual approach that developers can implement in any object-oriented language.
 
-The *Singleton* design pattern is useful when you are dealing with a class that includes a large amount of data that must be loaded into memory each time an instance of the class is created. What might happen to your phones memory and performance if you create many instances of such a class? Would it be beneficial to limit the number of instances?
+The *singleton* design pattern is useful when you need to access an instance of a class from multiple scopes, or different sections of your app, but you want changes made in one scope to persist to the other scope. It is also useful when you are dealing with a class that includes a large amount of data that must be loaded into memory each time an instance of the class is created. What might happen to your phones memory and performance if you create many instances of such a class? Would it be beneficial to limit the number of instances?
 
 ## Introduction: Static vs Non-Static (10 mins)
 
@@ -144,9 +144,11 @@ Create a Main class:
   - Use the object's getter method to access, then print the value from its String variable
 - Finally, in your `main()` method, call both `addMessage()` and `viewMessage()`. Remember that those methods each have their own *scope*. Does the value printed in `viewMessage()` match what you added in `addMessage()` even though they operate in different scopes?
 
+Here, we demonstrated how a singleton can persist data across different *scopes*. In Android, we will use the same approach to persist data across different screens or sections within the app.
+
 > Check: Were students able to create the desired deliverable?
 
 <a name="conclusion"></a>
 ## Conclusion (5 mins)
 
-The singleton concept will be used frequently in your Android apps. There are many objects in Android that are very heavy - meaning they take up a lot of space in memory - as well as objects that you simply don't need more than one of. The singleton pattern is a great way to handle such situations, organize your code, and make your apps perform well.
+You will use the singleton concept frequently in your Android apps. There are many times you will want only 1 instance of a particular class in order to persist data across screens, or sections of your app. In addition, some objects in Android are very large and take up a lot of memory, so limiting them to 1 instance can make your app perform better.
