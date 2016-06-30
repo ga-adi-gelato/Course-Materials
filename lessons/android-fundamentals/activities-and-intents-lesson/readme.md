@@ -107,7 +107,6 @@ The method, `startActivity()`, starts the intended activity immediately.
 
 Using the code from the previous demo, add a button to the app's main activity. Set an `onClickListener` to that button and have the listener start one of the other activities. Run the app in a virtual device, and click on the button to start the new activity.
 
-Note: A complete example of this is found in the [solution code folder](solution-code).
 
 ## Introduction: Sending data from one Activity to another Activity (10 mins)
 
