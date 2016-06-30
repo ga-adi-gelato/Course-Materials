@@ -6,7 +6,7 @@
    * [Command Line & Git](markdown/lessons/git.md)
    * [Java Essentials](markdown/lessons/java.md)
    * [Android Fundamentals](markdown/lessons/android_fundamentals.md)
-   * Android User Interface
+   * [Android User Interface](markdown/lessons/android_UI.md)
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
    * [Week 2](markdown/labs/week2.md)
