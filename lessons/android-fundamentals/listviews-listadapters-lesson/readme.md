@@ -33,8 +33,6 @@ creator:
 
 Previously, we learned about how to create and work with Lists in Java. These are a very important part of many Android apps, so Android provides some very useful tools for integrating them into your layouts. Today we will be covering three main topics: ListViews, ListAdapters, and how we interact with them. ListViews and ListAdapters are tied very closely together. The first is, as the name implies, it's a View that contains a List. The second is what ties (or adapts) our List data to the ListView.
 
-> Check: Ask the students to explain what Lists are used for and how they work.
-
 <a name="introduction"></a>
 ## Introduction: ListViews (10 mins)
 
@@ -46,8 +44,6 @@ The second component is the item contained in the ListView. For each piece of yo
 
 <img src="./screenshots/listview.png" width="300"/>
 
-
-> Check: Show the students a ListView item with two lines of text and ask them to identify the components inside of it.
 
 ***
 
@@ -67,7 +63,6 @@ First, let's open up the layout XML file and add the ListView
 
 Next we're going to discuss the ListAdapter so we can insert our data into the list.
 
-> Check:  Ask the students to get a reference to the ListView in the Java code, since it is like any other view.
 
 ```java
 ListView listView = (ListView)findViewById(R.id.list_view);
@@ -85,8 +80,6 @@ One important thing to note is that if the data in the list changes, you must te
 You don't actually make instances of a ListAdapter because it is an interface. Instead, other classes implement the ListAdapter interface, such as BaseAdapter. Then, other Adapters extend the BaseAdapter.
 
 One very common example is the ArrayAdapter, which can take your Lists and directly map them to the ListView with very little effort.
-
-> Check: Why do we use specialized Adapters (ie ArrayAdapter, CursorAdapter) instead of just using BaseAdapter?
 
 
 
@@ -118,8 +111,6 @@ exampleList.add("South Carolina");
 arrayAdapter.notifyDataSetChanged();
 ```
 
-> Check: What would happen if we set the adapter before adding any data to the list?
-
 
 <a name="guided-practice"></a>
 ## Guided Practice: ListAdapters (15 mins)
@@ -130,7 +121,6 @@ Use the provided Android project ListViewsAndAdapters, and complete the `MainAct
 - Add an ArrayAdapter to the newly created ListView, using the data in the provided LinkedList
 - Implement the onClick method of the provided FloatingActionButton to remove the first element of the list (if one exists), and refresh the ListView on screen.
 
-> Check: Were students able to successfully solve the problem or complete the task?
 
 <a name="introduction"></a>
 ## Introduction: View Recycling (10 mins)
@@ -185,13 +175,11 @@ Let's try replacing the adapter from the previous example with the list of names
 
 So far we've handled clicking on Views using an `OnClickListener`, but in ListViews, we have a bunch of individual Views. What happens if we try to write an `OnClickListener` for a ListView?
 
-> Instructor Note: Show the students an example with OnClickListener
 
 Android Studio tells us that we don't want to use this!
 
 The solution is to use something called the `OnItemClickListener`. Like the OnClickListener, the OnItemClickListener also contains a method where you put the code for what happens when you click. In this case, it's called `OnItemClick`.
 
-> Check: Why do we use OnItemClickListener instead of OnClickListener
 
 <a name="demo"></a>
 ## Demo: `OnItemClickListener` (20 mins)
@@ -225,15 +213,12 @@ mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
     }
 });
 ```
-> Tell the students about long clicks
 
 Now, let's have it say what position we clicked.
 
 ```java
 Toast.makeText(MainActivity.this,"Item clicked at position "+position,Toast.LENGTH_SHORT).show();
 ```
-
-> Check: Ask students to describe each parameter in OnItemClick
 
 
 <a name="guided-practice"></a>
@@ -255,14 +240,11 @@ mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 });
 ```
 
-> Check: Were students able to successfully solve the problem or complete the task?
-
 <a name="ind-practice"></a>
 ## Independent Practice: ListViews and ListAdapters (20 minutes)
 
 Build an activity that contains a ListView with two types of interaction. Pressing the FloatingActionButton should add a new list item containing whatever text the student wants. If the student long-presses on a specific list item, that item should be deleted. Basic code for the FloatingActionButton and long click detection will be provided in the project ListViewsIndependent.
 
-> Check: Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
 
 <a name="conclusion"></a>
 ## Conclusion (5 mins)
