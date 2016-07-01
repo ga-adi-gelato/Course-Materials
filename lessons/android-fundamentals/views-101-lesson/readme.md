@@ -64,7 +64,10 @@ EditText is a view that allows user input. Like the Scanner that we have encount
 * There is a parent/child relationship. Layouts are parent views that contain child views.
 * **LinearLayout** arranges views based on an orientation value. Examples:
 
->Put images here
+<center>
+<img src="screenshots/horizontal.png" height=300px/>
+<img src="screenshots/vertical.png" height=300px/>
+</center>
 
 *For the purposes of this lesson, we will only look at LinearLayout. We talk about the other layouts more in depth in the Layouts lesson.*
 
@@ -163,7 +166,9 @@ Let's go over adding views and layouts in Android Studio. We will start off drag
 
 Work with the person next to you and try to recreate the screenshot below:
 
-<img src = "http://i.imgur.com/BEJ9j2U.png" height = "300px"/>
+<center>
+<img src = "screenshots/practice.png" height = "300px"/>
+</center>
 
 ## Conclusion (5 mins)
 - What is a view?
