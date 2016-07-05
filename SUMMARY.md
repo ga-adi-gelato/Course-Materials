@@ -11,6 +11,7 @@
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
    * [Week 2](markdown/labs/week2.md)
+   * Week 3
 * [Homework](markdown/homework.md)
    * [Week 1](markdown/homeworks/week1.md)
    * [Week 2](markdown/homeworks/week2.md)
