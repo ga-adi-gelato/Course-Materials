@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### Creating custom layout
 
-<img src="screenshots/screen1.png" height="60px"/>
+<img src="screenshots/screen1.png" height="100px"/>
 
 ### Creating custom object
 
