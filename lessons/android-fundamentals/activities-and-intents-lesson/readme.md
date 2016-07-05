@@ -259,7 +259,7 @@ Since we could be starting different Activities from our Main Activity, we first
 
 **Do this activity with a partner**
 
-Instead of passing values from the first activity to the second, we are going to give the user two options in the main activity, add and subtract.
+Instead of passing values from the first activity to the second, we are going to pass the data back from the second activity to the first.
 
 If the user chooses add, they are taken to a calculate activity with two EditTexts where they type 2 numbers, and a calculate button. The sum of the numbers from the calculate activities is displayed on the main activity after pressing the calculate button.
 
