@@ -6,4 +6,4 @@
 - Wed 6/29: [OOP Assessment Lab](https://github.com/ga-adi-nyc/OOP-Assessment-Lab) (solutions posted)
 - Thu 6/30: [Android Views Lab](https://github.com/ga-adi-nyc/Android-Views-Lab) (solutions posted)
 - Thu 6/30: [Activities and Intents Lab](https://github.com/ga-adi-nyc/Activities-And-Intents-Lab) (solution posted)
-- Fri 7/1: [ListViews and ListAdapters Lab - Bookshelf](https://github.com/ga-adi-nyc/ListViews-Lab)
+- Fri 7/1: [ListViews and ListAdapters Lab - Bookshelf](https://github.com/ga-adi-nyc/ListViews-Lab) (solution posted)
