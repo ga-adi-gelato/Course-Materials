@@ -37,8 +37,6 @@ creator:
 
 Previously, we learned about the UI elements that make up a screen in an app, and how we interact with it in the Java code. Notice how the file was called MainActivity.java? Most of the time, you can think of an Activity as a screen of your app - that's all!
 
-> Check: If Activities are screens, why do you think they are called "Activities"?
-
 
 ## Introduction: What is an Activity? What is a Manifest? (10 mins)
 
@@ -52,8 +50,6 @@ An Activity is a plain ol' Java class, so you already know how to add it to a pr
 
 Doing this also adds the Activity to the Android Manifest.
 
-> Check: So what is an activity again?
-
 #### What is a Manifest?
 
 The dictionary defines a ship's manifest to be "a document giving comprehensive details of a ship and its cargo and other contents, passengers, and crew for the use of customs officers."
@@ -66,8 +62,6 @@ Notably, the manifest is known for describing the main components of your app; t
 
 Whenever you create a new Activity through the New Activity menu, Android Studio will automatically add it to the manifest.
 
-> Check: How do activities relate to the manifest?
-
 ## Demo: Creating Activities (15 mins)
 
 In this demo, let's walk through the following:
@@ -76,10 +70,6 @@ In this demo, let's walk through the following:
 * Examining the manifest file, describing components like the XML elements, attributes, and package
 * Describe what a launcher activity is (The activity that opens when the app is launched), and make comparisons to Java's *public static void main* method
 * Add 2 more activities to the project, and go back to the manifest and see them added
-
-> Instructor Note: A complete example of this is found in the [solution code folder](solution-code).
-
-> Check: Take 2 minutes, with the person next to you, and discuss what a launcher activity is, and how it compares to public static void main. Be ready to share out!
 
 
 ## Introduction: What are Intents? (10 mins)
@@ -92,7 +82,6 @@ For example, a `ComposeEmailActivity` allows the user to compose and send an ema
 
 This is the idea behind Intents in Android. Intents are messages you send between app components, like Activities, usually with the goal of doing something.
 
-> Check: So, imagine you are in your app's `EmailListActivity`, and you click on one of your emails. In plain ol' English, could you describe what is happening between the user and the EmailListActivity? Take 10 seconds to think about it.
 
 The following "dialogue" is happening:
 
@@ -116,7 +105,6 @@ You create a new Intent object, and you pass it two parameters: The activity you
 
 The method, `startActivity()`, starts the intended activity immediately.
 
-> Check: What two parameters should you pass your Intent objects?
 
 ## Independent Practice: Starting an activity with an Intent (10 mins)
 
@@ -128,7 +116,6 @@ Note: A complete example of this is found in the [solution code folder](solution
 
 Intents are how Activities communicate with each other. In the previous example, we started an activity to compose an email by clicking an email in the list. However, how does the ReadEmailActivity know what email to show?
 
-> Check: Take 30 seconds to talk with the person next to you about this question.
 
 When you start a new activity, it is shown with the default settings that you give it. However, some activities need to receive a bit more information. This info is sent from the original activity to the one you are starting.
 
@@ -143,7 +130,6 @@ When creating new intents, you can also give it *extra* data. Here's an example:
 
 ```
 
-> Check: Take 20 seconds to study the code and come up with an explanation, in English, about what's happening. Be ready to share!
 
 The Intent class has a handful of helper methods you can call to get and store extra data. The main one is `putExtra()`, which takes two parameters: a String that gives the data a name, and the data itself.
 
@@ -170,7 +156,6 @@ Here we are hard-coding the Keys, what do you think we could do as an alternativ
 
 ## Guided Practice: Sending Data between Activities (15 mins)
 
-> Instructor Note: Show the class that getting data without setting it or with a type in the extra id would cause incorrect or null data. Then, after you introduce this exercise, be sure to stop the class after each step and reveal the answer.
 
 With the person next to you, go ahead and start a new Android project with a empty main activity. Do the following:
 
@@ -181,7 +166,6 @@ With the person next to you, go ahead and start a new Android project with a emp
 
 #### Independent Practice: Add two numbers (15 mins)
 
-> This should be done as a pair programming exercise.
 
 Now, with the person next to you, without stopping every two minutes, do the following:
 
@@ -205,7 +189,6 @@ Open the Starter-Code and follow along.
 
 First, let's look at the second Activity, or the one you are passing the data back from. In this Activity, we press a button, and it passes the values from the two EditTexts back to the Main Activity.
 
-> Check: How do you think we are going to pass data from the second activity to the first when clicking the button? Share out!
 
 Just like when we're starting an Activity, we also pass data back using an Intent and extras.
 
@@ -232,7 +215,6 @@ First we create an intent, then put the two Strings in as extras. The next two l
 
 Now that we've finished the Second Activity, let's return to the Main Activity. We have two steps to complete.
 
-> Check: What are they? You know this by now.
 
 We need to start the Second Activity and get the results from the Second Activity.
 
@@ -253,7 +235,6 @@ You can assign any integer value that is **greater than 0**.
 
 Next, we have to get the results from the Second Activity. Whenever you return from an Activity that is expecting results, the `onActivityResult` is automatically called.
 
-> Check: Give the students 2 minutes to discuss what data they think will be returned to us based on what was passed into the second activity and what was returned in the result after pressing the button.
 
 ```java
 protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -273,7 +254,6 @@ The first parameter is the static variable we passed in when starting the activi
 
 Since we could be starting different Activities from our Main Activity, we first have to check that our result is coming from the `NAME_REQUEST` activity, then we have to check to make sure the results are valid. After that, we can retrieve the data like normal and use it however we want.
 
-> Check: What are the key differences between how we started activities before and what we just did?
 
 ## Independent Practice: startActivityForResult (10 mins)
 
@@ -287,7 +267,6 @@ If the user chooses add, they are taken to a calculate activity with two EditTex
 
 If the user chooses subtract, the same steps occur, except the difference is displayed in the main activity.
 
-> Check: Let's take 2 minutes to review the answer. Were all students able to complete the activity successfully? If not, where did you get stuck?
 
 #### Conclusion (5 mins)
 
