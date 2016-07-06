@@ -22,7 +22,6 @@ creator:
 *Before this lesson, instructors will need to:*
 - Open and run the solution code to ensure you agree with the solution and it works properly
 
-> Instructor Note: You can modify this lesson as you feel appropriate to fit your personal whiteboarding techniques.
 
 ---
 <a name="opening"></a>
@@ -30,7 +29,6 @@ creator:
 
 Whiteboarding is often a very important part of the technical interview process and gives the interviewers an insight into your thought process as well as your knowledge on the subject. As the name implies, whiteboarding is the technique of solving a problem on a whiteboard. While this sounds relatively straightforward, it can actually be quite challenging. Today we're going to learn!
 
-> Check: Give the students 1 minute to discuss the types of questions they think might be asked during a whiteboarding session.
 
 ***
 
@@ -39,7 +37,6 @@ Whiteboarding is often a very important part of the technical interview process 
 
 While one of the main goals in whiteboarding is to solve the problem you are given, the interviewers are also finding out much more about who you are and how you work.
 
-> Give the students 2 minutes to discuss what they think are some important things to keep in mind while at the whiteboard.
 
 Here are some extremely important skills to practice while at the whiteboard:
 
@@ -53,7 +50,6 @@ Here are some extremely important skills to practice while at the whiteboard:
 
 If you can't finish a question, that's ok! It's more important that you show the interviewer how you approached the problem and to give them a good idea of how you code.
 
-> Check: Ask the students what they should do if they get stuck while they are coding on the whiteboard.
 
 ***
 
@@ -68,7 +64,6 @@ Suppose we had the following question:
 Given two arrays of integers of equal length, that are identical except for a single element, write a method to return the index of the number which is different between the two arrays.
 ```
 
-> Ask the students what they think the first step is, second, etc.
 
 First, we should start off with a few quick examples:
 
@@ -112,15 +107,12 @@ You can see that each step we wrote out corresponds to a certain section of the 
 
 Now it's your turn! Get into groups of 3-4 people, and each person will take, at most, 10 minutes to pick a problem from the list below to solve. The remaining people will act as the interviewers. Remember to follow the techniques we discussed.
 
-> Instructor Note: Circulate around the room listening to how students are doing and offer advice when needed.
-
 1. Find the character that appears the most time in a given string (i.e. "tomorrow" should return 'o'). Return the character later in the alphabet if there is a tie.
 2. An array is supposed to contain the numbers 1-10, but one number is missing. Find and return that number.
 3. Write a method that finds the second highest number in an array of integers.
 4. Given a non-empty string and an int N, return the string made starting with char 0, and then every Nth char of the string. So if N is 3, use char 0, 3, 6, ... and so on. N is 1 or more.
 5. Given an array of ints, return the string "even" if there are more even elements in the array, or "odd" if there are more odd elements in the array.
 
-> Check: Take one minute to review the solution to each of the whiteboarding problems. Choose one student to lead the review for each.
 
 ***
 
