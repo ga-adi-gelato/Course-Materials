@@ -11,3 +11,4 @@
 - [Interfaces & Abstract Classes](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/interfaces-and-abstract-classes-lesson) (Tuesday, 6/28)
 - [Singleton Design Pattern](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/singleton-design-pattern) (Wednesday, 6/29)
 - [Whiteboarding](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/whiteboarding-lesson) (Tuesday, 7/5)
+- [Whiteboard Morning Exercise](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/java-essentials/whiteboard-morning-exercise) (Thursday, 7/7)
