@@ -7,7 +7,7 @@
    * [Programming Fundamentals in Java](markdown/lessons/programming-fundamentals-in-java.md)
    * [User Interface](markdown/lessons/user-interface.md)
    * [Activities & Fragments](markdown/lessons/activities-and-fragments.md)
-   * [Product Development](markdown/lessons/product-develpment.md)
+   * [Product Development](markdown/lessons/product-development.md)
    * [CS & Interview Prep](markdown/lessons/computer-science-and-interview-prep.md)
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
