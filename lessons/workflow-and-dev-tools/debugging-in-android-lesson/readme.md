@@ -1,5 +1,5 @@
 ---
-title: Debugging Fundamentals 1
+title: Debugging in Android Studio
 type: Lesson
 duration: "1:00"
 creator:
@@ -10,7 +10,7 @@ creator:
 
 
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Debugging Fundamentals 1
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Debugging in Android Studio
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
