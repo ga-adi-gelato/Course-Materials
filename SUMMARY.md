@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Lessons](markdown/lessons.md)
-   * [Intro](markdown/lessons/intro.md)
+   * [Orientation Materials](markdown/lessons/intro.md)
    * [Command Line & Git](markdown/lessons/git.md)
    * [Java Essentials](markdown/lessons/java.md)
    * [Android Fundamentals](markdown/lessons/android_fundamentals.md)
