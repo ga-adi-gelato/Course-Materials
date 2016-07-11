@@ -7,14 +7,14 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/android-fundamentals/developer-documentation-lesson/starter-code" />
-            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/android-fundamentals/developer-documentation-lesson/starter-code/app" />
+            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/workflow-and-dev-tools/developer-documentation-lesson/starter-code" />
+            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/workflow-and-dev-tools/developer-documentation-lesson/starter-code/app" />
           </set>
         </option>
         <option name="myModules">
           <set>
-            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/android-fundamentals/developer-documentation-lesson/starter-code" />
-            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/android-fundamentals/developer-documentation-lesson/starter-code/app" />
+            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/workflow-and-dev-tools/developer-documentation-lesson/starter-code" />
+            <option value="$USER_HOME$/Dropbox/Charlie/GA/ADI-Gelato/Course-Materials/lessons/workflow-and-dev-tools/developer-documentation-lesson/starter-code/app" />
           </set>
         </option>
       </GradleProjectSettings>
