@@ -115,7 +115,7 @@ When we paste the above block into SQLite:
 
 ```sql
 sqlite> CREATE TABLE instructors (
-   ...>   ID  INT PRIMARY KEY,
+   ...>   ID  INTEGER PRIMARY KEY,
    ...>   NAME TEXT,
    ...>   EXPERIENCE INT,
    ...>   WEBSITE TEXT
@@ -127,7 +127,7 @@ Quick note about the `...>` part: it indicates a new line. Although the code abo
 So, if you press enter and you see `...>` and not `sqlite>`, then you probably forgot a semicolon at the end of your statement. The following statement, for instance, is totally fine:
 
 ```sql
-  sqlite> SELECT * FROM students
+  sqlite> SELECT * FROM instructors
      ...> ;
 ```
 
@@ -141,7 +141,7 @@ Alright, let's look into the different parts of the statement:
 This starts our table creation, it tells SQLite to create a table named "instructors"..
 
 ```sql
-  ID    INT   PRIMARY KEY,
+  ID    INTEGER  PRIMARY KEY,
   NAME  TEXT,
 ```
 
@@ -170,7 +170,7 @@ Here's what that query should have looked like:
 
 ```sql
   CREATE TABLE students (
-    ID INT PRIMARY KEY NOT NULL,
+    ID INTEGER PRIMARY KEY NOT NULL,
     NAME TEXT NOT NULL,
     AGE INT,
     ADDRESS TEXT
@@ -206,6 +206,16 @@ In SQLite that will look like:
   sqlite> INSERT INTO students VALUES (1, 'Jack Sparrow', 28, '50 Main St, New York, NY');
 ```
 
+Great, we have Jack Sparrow in our database! What happens if we type in another entry with the ID of 1? We get an error! Luckily, SQLite automatically helps us out with this. If we don't enter an ID in our insert statement, the database will generate one for us.
+
+Now we can enter our data like this:
+
+```sql
+  sqlite> INSERT INTO students (name,age,address) VALUES ('Jack Sparrow', 28, '50 Main St, New York, NY');
+```
+
+> Check: What is an advantage to using this syntax where we specify the column names?
+
 ## Insert Data - Independent Practice (10 mins)
 
 Now, you try it for the other students, and pay attention to the order of Jack's parameters and the single quotes - they both matter.
@@ -217,10 +227,10 @@ Now, you try it for the other students, and pay attention to the order of Jack's
 
 
 ```sql
-INSERT INTO students VALUES (2, 'Jilly Cakes', 30, '123 Webdev Dr. Boston, MA');
-INSERT INTO students VALUES (3, 'Johnny Bananas', 25, '555 Five St, Fivetowns, NY');
-INSERT INTO students VALUES (4, 'Jackie Lackie', 101, '2 OldForThis Ct, Fivetowns, NY');
-INSERT INTO students VALUES (5, 'Voltron', 31, null);
+INSERT INTO students (name,age,address) VALUES ('Jilly Cakes', 30, '123 Webdev Dr. Boston, MA');
+INSERT INTO students (name,age,address) VALUES ('Johnny Bananas', 25, '555 Five St, Fivetowns, NY');
+INSERT INTO students (name,age,address) VALUES ('Jackie Lackie', 101, '2 OldForThis Ct, Fivetowns, NY');
+INSERT INTO students (name,age,address) VALUES ('Voltron', 31, null);
 ```
 
 
