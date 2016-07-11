@@ -214,8 +214,6 @@ Now we can enter our data like this:
   sqlite> INSERT INTO students (name,age,address) VALUES ('Jack Sparrow', 28, '50 Main St, New York, NY');
 ```
 
-> Check: What is an advantage to using this syntax where we specify the column names?
-
 ## Insert Data - Independent Practice (10 mins)
 
 Now, you try it for the other students, and pay attention to the order of Jack's parameters and the single quotes - they both matter.
@@ -325,7 +323,7 @@ Just like in Java, all of our comparison and boolean operators can do work for u
 Ok, there are some mistakes we've made to our database, but that's cool, cause we can totally update it or delete information we don't like. Let's start by adding one more student:
 
 ```sql
-  sqlite> INSERT INTO students VALUES (6, 'Miss Take', 500, 'asdfasdfasdf');
+  sqlite> INSERT INTO students VALUES ('Miss Take', 500, 'asdfasdfasdf');
 ```
 
 But oh no, we messed them up - Miss Take doesn't live at asdfasdfasdf, she lives at 100 Main St., New York, NY.  
