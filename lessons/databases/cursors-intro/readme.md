@@ -18,20 +18,11 @@ creator:
 - Use arrays and ArrayLists to store and manipulate data
 - Use helper methods of an object class
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Read through the lesson
-- Add additional instructor notes as needed
-- Edit language or examples to fit your ideas and teaching style
-- Open, read, run, and edit (optional) the starter and solution code to ensure it's working and that you agree with how the code was written
-
 ---
 <a name="opening"></a>
 ## Opening (5 mins)
 
 So far we've been introduced to what databases are and how to use SQL to access and manipulate the data. These are all key pieces of information, but how does it all fit into Android? In Android, whenever we query data from the database, it is given back to us in a special object called a Cursor.
-
-> Check: Ask students to explain how a SELECT statement works in SQL.
 
 ***
 
