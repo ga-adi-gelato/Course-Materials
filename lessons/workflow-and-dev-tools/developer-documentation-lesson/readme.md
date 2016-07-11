@@ -1,10 +1,9 @@
 ---
 title: Using Developer Documentation
 type: lesson
-duration: "1:15"
-creator:
-    name: James Traver
-    city: CHI
+duration: "1:30"
+created by: James Traver (CHI)
+updated by: Charlie Drews (NYC)
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Using Developer Documentation
