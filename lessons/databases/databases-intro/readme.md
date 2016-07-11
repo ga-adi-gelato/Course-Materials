@@ -52,7 +52,7 @@ See, this is when we start seeing relationships form. This is great. You can ima
 
 ## Independent Practice: Think About the Singleton for Project 1 (15 mins)
 
-Look over the singleton we used for project 2 and begin to draw up the different tables, with the appropriate columns, that would be needed to set up an appropriate database for the list and list items.
+Look over the singleton we used for project 1 and begin to draw up the different tables, with the appropriate columns, that would be needed to set up an appropriate database for the list and list items.
 
 ## Conclusion (5 mins)
 
