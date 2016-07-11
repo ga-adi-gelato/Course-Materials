@@ -9,7 +9,7 @@
    * [Activities & Fragments](markdown/lessons/activities-and-fragments.md)
    * [Product Development](markdown/lessons/product-development.md)
    * [CS & Interview Prep](markdown/lessons/computer-science-and-interview-prep.md)
-   * [Databases Intro](markdown/databases_intro.md)
+   * [Databases](markdown/databases_intro.md)
 * [Labs](markdown/labs.md)
    * [Week 1](markdown/labs/week1.md)
    * [Week 2](markdown/labs/week2.md)
