@@ -7,4 +7,3 @@
 - [Activities and Fragments](lessons/activities-and-fragments.md)
 - [Product Development](lessons/product-development.md)
 - [Computer Science and Interview Prep](lessons/computer-science-and-interview-prep.md)
-- [Databases Intro](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/databases-intro)
