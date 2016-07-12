@@ -107,8 +107,8 @@ public class StudentTest {
 To assert thing, you would use jUnit's `assert_____()` static methods. The main ones are:
 
 ```java
-		assertEquals(4, 2 + 2);
-		assertTrue(true);
+    assertEquals(4, 2 + 2);
+    assertTrue(true);
     assertFalse(false);
     assertNull(null);
     assertNotNull("Not null");
