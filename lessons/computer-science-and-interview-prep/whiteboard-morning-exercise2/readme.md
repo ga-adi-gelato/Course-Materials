@@ -18,6 +18,7 @@ Team up in groups of 2 or 3 and take turns working on the following problems. Pr
 - Consider writing pseudocode before Java to make your steps clear to both you and the interviewer
 
 Today we're going to focus on **recursion**, which is when a method calls itself. You need two things to avoid an infinite loop where the method keeps calling itself forever:
+
 1. A _base case_, which returns a value without any further recursive calls (you can have more than one base case sometimes)
 2. A _reduction step_, which changes the input before making the next recursive call, so as to make progress toward the base case
 
