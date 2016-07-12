@@ -6,5 +6,6 @@
 - [User Interface](lessons/user-interface.md)
 - [Activities and Fragments](lessons/activities-and-fragments.md)
 - [Databases](lessons/databases.md)
+- [Testing](lessons/testing.md)
 - [Product Development](lessons/product-development.md)
 - [Computer Science and Interview Prep](lessons/computer-science-and-interview-prep.md)

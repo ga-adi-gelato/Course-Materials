@@ -20,20 +20,14 @@ Week 4 | Lesson 4
 *Before this lesson, you should already be able to:*
 - Understand the code supporting Cursor behavior
 - Be able to perform basic SQLite queries in an Android app
-
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Gather materials needed for class
-- Complete Prep work required
-- Prepare any specific instructions
-
+- 
 ---
 <a name="opening"></a>
 ## Opening (5 mins)
 
 Now that we've covered the basics of SQL, integrating SQLite databases into your apps, and Cursor behavior, we are finally ready to cover Cursor Adapters. Databases are a very important part to many popular apps, and knowing how to work with them is crucial. In addition to regular Cursor Adapters, we will explore Simple Cursor Adapters which make working with the results of databases even easier.   
 
-> Check: Ask the students to describe what the purpose of adapters are in regards to ListViews.
+> Check: Describe what the purpose of adapters are in regards to ListViews.
 
 ***
 
@@ -44,9 +38,9 @@ We've already seen Adapters when working with ListViews, and how important they 
 
 One important item to note is that your table in the database **must** have a column named `_id` that contains a unique id value for each entry.
 
-> Check: Ask the students how to define an automatically incrementing `_id` column in SQLite.
+> Check: Define an automatically incrementing `_id` column in SQLite.
 
-> Check: In pairs, have the students discuss how data changing in the cursor is different than data changing in a list. (Answer: A new cursor must be made vs individual elements changing while the rest remains the same).
+> Check: In pairs, discuss how data changing in the cursor is different than data changing in a list.
 
 ***
 
@@ -82,7 +76,7 @@ When creating the CursorAdapter, the constructor takes three parameters. The fir
 
 As you can see, there are two methods we are required to override. newView is simply responsible for inflating the list item layout. bindView is responsible for setting up all of the views in the layout, such as text and images.
 
-> Check: Ask the students how we would change the adapter to display the description column instead of the name column.
+> Check: How would we change the adapter to display the description column instead of the name column.
 
 ***
 
@@ -93,7 +87,7 @@ Now that we've created a basic Cursor Adapter, let's try changing it to use a cu
 
 First, we need to create our new layout, then we can change our CursorAdapter.
 
-```java
+```xml
 //XML Layout
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -108,7 +102,9 @@ First, we need to create our new layout, then we can change our CursorAdapter.
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
+```
 
+```java
 //Changed CursorAdapter
 CursorAdapter cursorAdapter = new CursorAdapter(MainActivity.this,cursor,0) {
   @Override
@@ -133,7 +129,7 @@ There were only three changes we needed to make in order to use our custom layou
 2) Get the new TextView
 3) Set the new TextView to the description value
 
-> Check: Were students able to successfully complete the task?
+> Check: Were you able to successfully complete the task?
 
 ***
 
@@ -152,7 +148,7 @@ The constructor takes 6 parameters:
 5) An array of ints that contains the id of the view item in the layout to assign to the corresponding cursor data value
 6) An integer for flags
 
-> Check: In pairs, ask the students to come up with an example of when we **wouldn't** want to use a SimpleCursorAdapter
+> Check: In pairs, come up with an example of when we **wouldn't** want to use a SimpleCursorAdapter
 
 ***
 
@@ -161,7 +157,7 @@ The constructor takes 6 parameters:
 
 Now we're going to try to display the name column in the listView using a SimpleCursorAdapter. Let's comment out the CursorAdapter we defined before, and start writing a SimpleCursorAdapter.
 
-> Walk through each parameter with the students
+> We will walk through each parameter together
 
 ```java
 //Create SimpleCursorAdapter
@@ -173,7 +169,7 @@ CursorAdapter simpleCursorAdapter = new SimpleCursorAdapter(MainActivity.this,an
 listView.setAdapter(simpleCursorAdapter);
 ```
 
-> Check: By this point, students should be able to write out or code their own methods / functions / arguments / etc.
+> Check: By this point, you should be able to write out or code your own methods / functions / arguments / etc.
 
 ***
 
@@ -189,14 +185,14 @@ int[] viewNames = new int[]{R.id.name_text_view,R.id.description_text_view};
 CursorAdapter simpleCursorAdapter = new SimpleCursorAdapter(MainActivity.this,R.layout.list_item_layout,cursor,columns,viewNames,0);
 ```
 
-> Check: Were students able to successfully complete the task?
+> Check: Were you able to successfully complete the task?
 
 ***
 
 <a name="ind-practice"></a>
 ## Independent Practice: Topic (15 minutes)
 
-> Instructor Note: This can be a pair programming activity or done indpendently.
+> Note: This can be a pair programming activity or done indpendently.
 
 Now it's time for you to create your own CursorAdapter using a custom layout. Each list item should contain two items:
 
@@ -205,7 +201,7 @@ Now it's time for you to create your own CursorAdapter using a custom layout. Ea
 
 [The starter code is in the IconList project](./starter-code/IconList/).
 
-> Check: Were students able to create the desired deliverables? Did it meet all necessary requirements?
+> Check: Were you able to create the desired deliverables? Did it meet all necessary requirements?
 
 ***
 
