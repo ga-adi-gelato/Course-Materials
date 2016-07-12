@@ -10,3 +10,4 @@
 - [Subclasses](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/subclasses-lesson) (Tuesday, 6/28)
 - [Interfaces & Abstract Classes](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/interfaces-and-abstract-classes-lesson) (Tuesday, 6/28)
 - [Singleton Design Pattern](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/singleton-design-pattern) (Wednesday, 6/29)
+- [Recursion Morning Exercise](https://github.com/ga-adi-nyc/Course-Materials/blob/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise2/solutions.md) (Tuesday, 7/12)
