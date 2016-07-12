@@ -53,7 +53,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "favorites.db";
 
     // create the SQLiteDatabase's constructor, and override onCreate, and onUpgrade
-    public DatabaseHelper (Context context) {
+    private DatabaseHelper (Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
 
@@ -92,7 +92,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "Favorites.db";
 
 
-    public DatabaseHelper(Context context) {
+    private DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
 
