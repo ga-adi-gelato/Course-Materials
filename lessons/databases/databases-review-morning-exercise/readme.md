@@ -26,14 +26,13 @@ In the objectives section below, you will find tasks to complete on the **Custom
 - Find all customers who have a postal code with exactly 4 digits.
 - Delete all customers whose ContactNames start with an M
 - Add the following information to the table:
-
     - id: 110
     - CustomerName: Best Bagels
     - ContactName: John Smith
     - Address: 234 Example St.
+	- City: Anytown
     - PostalCode: 12345
     - Country: USA
-
     
 - Delete all Customers whose CustomerNames start with an A, or whose ContactNames start with an L
 
