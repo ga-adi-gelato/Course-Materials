@@ -10,3 +10,7 @@
 - Wed 7/13:
   - Finish the [Unit Testing Lab](https://github.com/ga-adi-nyc/Unit-Testing-Lab)
   - Watch [this video](https://www.youtube.com/watch?v=9OWmnYPX1uc) about enabling search in an Android app
+
+**Outcomes Assignments:**
+  - Updated resume due 7/20
+  - Sample cover letter due 7/20
