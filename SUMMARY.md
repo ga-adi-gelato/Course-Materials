@@ -8,6 +8,7 @@
    * [User Interface](markdown/lessons/user-interface.md)
    * [Activities & Fragments](markdown/lessons/activities-and-fragments.md)
    * [Databases](markdown/lessons/databases.md)
+   * [Android Technologies and Services](markdown/lessons/android-technologies-and-services.md)
    * [Testing](markdown/lessons/testing.md)
    * [Product Development](markdown/lessons/product-development.md)
    * [CS & Interview Prep](markdown/lessons/computer-science-and-interview-prep.md)
