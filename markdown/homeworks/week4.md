@@ -11,7 +11,7 @@
   - Finish the [Unit Testing Lab](https://github.com/ga-adi-nyc/Unit-Testing-Lab)
   - Watch [this video](https://www.youtube.com/watch?v=9OWmnYPX1uc) about enabling search in an Android app
 - Thu 7/14:
-  - Finish the [Enable Search](https://github.com/ga-adi-nyc/Search-View-Lab) and [Detail View](https://github.com/ga-adi-nyc/Detail-View-Lab) labs
+  - Finish the [Search View](https://github.com/ga-adi-nyc/Search-View-Lab) and [Detail View](https://github.com/ga-adi-nyc/Detail-View-Lab) labs
   - [Read about SQL Joins](http://www.sql-join.com/) (read the first page)
 
 **Outcomes Assignments:**
