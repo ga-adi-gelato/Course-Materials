@@ -7,7 +7,7 @@
    * [Programming Fundamentals in Java](markdown/lessons/programming-fundamentals-in-java.md)
    * [User Interface](markdown/lessons/user-interface.md)
    * [Activities & Fragments](markdown/lessons/activities-and-fragments.md)
-   * Android Technologies and Services
+   * [Android Technologies and Services](markdown/lessons/android-technologies-and-services.md)
    * [Databases](markdown/lessons/databases.md)
    * [Testing](markdown/lessons/testing.md)
    * [Product Development](markdown/lessons/product-development.md)
