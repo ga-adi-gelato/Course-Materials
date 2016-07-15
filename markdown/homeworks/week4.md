@@ -13,6 +13,10 @@
 - Thu 7/14:
   - Finish the [Search View](https://github.com/ga-adi-nyc/Search-View-Lab) and [Detail View](https://github.com/ga-adi-nyc/Detail-View-Lab) labs
   - [Read about SQL Joins](http://www.sql-join.com/) (read the first page)
+- Fri 7/15:
+  - Finish any incomplete labs from this week (_note: if you submit a pull request, then later push more commits to your repo, those new commits automatically show up in the pull request, as long as the pull request hasn't been closed_)
+  - [Read thru this lesson on database relationships](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/database-relationships-lesson) - We did not cover this lesson in class, but it describes _Crow's Foot_ diagrams. They are not vital for Android development, but are good general knowledge for you to have.
+  - Optional: [Read this short page on the Activity Lifecycle](https://developer.android.com/training/basics/activity-lifecycle/index.html) - it's only a few paragraphs, but it will help introduce Monday's lessons
 
 **Outcomes Assignments:**
   - Updated resume due 7/20
