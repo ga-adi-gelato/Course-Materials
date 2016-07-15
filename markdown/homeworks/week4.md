@@ -4,7 +4,7 @@
 
 - Mon 7/11:
   - [Database Table Design HW](https://github.com/ga-adi-nyc/Database-Table-Design-HW) &#x2705;
-  - Read about SQLite in Android](http://www.vogella.com/tutorials/AndroidSQLite/article.html) - sections 1.1 through 2.7
+  - [Read about SQLite in Android](http://www.vogella.com/tutorials/AndroidSQLite/article.html) - sections 1.1 through 2.7
 - Tue 7/12:
   - [Intro to Testing HW](https://github.com/ga-adi-nyc/Intro-To-Testing-HW)
   - [Read about Unit Testing](http://www.vogella.com/tutorials/JUnit/article.html) - sections 1.1 through 2.3
