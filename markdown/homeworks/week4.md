@@ -1,8 +1,9 @@
 # Week 4 Homework
 
-- Mon 7/11:
-  - [Database Table Design HW](https://github.com/ga-adi-nyc/Database-Table-Design-HW) (solution posted)
-  - [Read about SQLite in Android](http://www.vogella.com/tutorials/AndroidSQLite/article.html) - Sections 1.1 through 2.7
+| Date | Homework | Solution Posted |
+| --- | --- |:---:|
+| Mon 7/11 | [Database Table Design HW](https://github.com/ga-adi-nyc/Database-Table-Design-HW)<br>[Read about SQLite in Android](http://www.vogella.com/tutorials/AndroidSQLite/article.html), sections 1.1 through 2.7 | &#x2705; |
+
 - Tue 7/12:
   - [Intro to Testing HW](https://github.com/ga-adi-nyc/Intro-To-Testing-HW)
   - [Read about Unit Testing](http://www.vogella.com/tutorials/JUnit/article.html) - Sections 1.1 through 2.3
