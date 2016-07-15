@@ -2,14 +2,11 @@ package generalassembly.yuliyakaleda.joins;
 
 import android.content.ContentValues;
 import android.content.Context;
-import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.provider.BaseColumns;
-import android.util.Log;
 
 
-public class Helper extends SQLiteOpenHelper {
+public class DatabaseHelper extends SQLiteOpenHelper {
   public static final String EMPLOYEE_TABLE_NAME = "employee";
   public static final String COL_ID = "_id";
   public static final String COL_NAME = "name";
@@ -23,15 +20,15 @@ public class Helper extends SQLiteOpenHelper {
 
 
 
-  private Helper(Context context) {
+  private DatabaseHelper(Context context) {
     super(context, "db", null, 1);
   }
 
-  private static Helper INSTANCE;
+  private static DatabaseHelper INSTANCE;
 
-  public static synchronized Helper getInstance(Context context) {
+  public static synchronized DatabaseHelper getInstance(Context context) {
     if (INSTANCE == null)
-      INSTANCE = new Helper(context.getApplicationContext());
+      INSTANCE = new DatabaseHelper(context.getApplicationContext());
     return INSTANCE;
   }
 
@@ -60,7 +57,8 @@ public class Helper extends SQLiteOpenHelper {
       DEPARTMENT_TABLE_NAME + " (" +
       COL_ID + " INTEGER PRIMARY KEY," +
       COL_DEPARTMENT + " TEXT," +
-      COL_EMP_ID + " INTEGER" + ")";
+      COL_EMP_ID + " INTEGER" + "," +
+          "FOREIGN KEY("+ COL_EMP_ID +") REFERENCES "+ EMPLOYEE_TABLE_NAME+"("+ COL_ID +") )";
 
   private static final String SQL_DELETE_ENTRIES_EMPLOYEE = "DROP TABLE IF EXISTS " +
       EMPLOYEE_TABLE_NAME;

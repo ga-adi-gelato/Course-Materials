@@ -1,11 +1,8 @@
 package generalassembly.yuliyakaleda.joins;
 
-import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
   private TextView text;
@@ -15,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    Helper helper = Helper.getInstance(MainActivity.this);
+    DatabaseHelper helper = DatabaseHelper.getInstance(MainActivity.this);
 
     Employee employee = new Employee("John", 32, "NY", 30);
     Employee employee1 = new Employee("Harry", 31, "VA", 60);
