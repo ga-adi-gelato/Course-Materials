@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_ea534e195c75d3e21c24a03fd19ccee6ec6f3074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_c7e746a928ae9d415f4a8db82746ef8c0e4e18ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="67f27cf860a87f9ec86e5afc6135079fce6c36c7">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f5e313bcda295837ba9aa779e903a93c0b0fd4fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_0924ab23428f90a4a91c3debca4fb94da8399c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_1ce2517d0d83119b6c89160fa67c24ccbe30385a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_81ff69aea6749252ad7a0be4aa5cce4f92a49742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_adbc48915a9f950e0280b869b7414858f8f68e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_86b2e1e8268772d6e57a69abed49c64a8294f029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="91c9b8c3e984e1af07c4913c5d879b6e7d64bd55">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a72391078911648da67de51f103a52ff2dcb61bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alanjcaceres/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_33fd05f25f66b84d1d987a33134585b86372ade8/classes.dex" />
+    </item>
+
+</items>
