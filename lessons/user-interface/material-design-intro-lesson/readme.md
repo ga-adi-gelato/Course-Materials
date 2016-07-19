@@ -161,8 +161,8 @@ To do that, open up your **build.gradle** and add the following inside the depen
 
 ```gradle
   dependencies {
-      compile 'com.android.support:appcompat-v7:24.0.0'
-      compile 'com.android.support:design:24.0.0'
+      compile 'com.android.support:appcompat-v7:24.1.0'
+      compile 'com.android.support:design:24.1.0'
   }
 ```
 
