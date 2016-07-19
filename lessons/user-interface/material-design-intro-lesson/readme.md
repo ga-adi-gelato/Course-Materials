@@ -313,4 +313,7 @@ You should set the width and height, and optionally set the `cardCornerRadius`, 
 
 ## Additional resources
 
-[Google Developers - "Paper and Ink: The Materials that Matter"](https://www.youtube.com/watch?v=YaG_ljfzeUw)
+- [Google Developers - "Paper and Ink: The Materials that Matter"](https://www.youtube.com/watch?v=YaG_ljfzeUw)
+- [Material Design color Palette](https://www.google.com/design/spec/style/color.html#color-color-schemes)
+- [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html)
+- [Design Support Library](http://android-developers.blogspot.com/2015/05/android-design-support-library.html)
