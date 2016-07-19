@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+
+    <string-array name="grocery_list">
+        <item>Apples</item>
+        <item>Carrots</item>
+        <item>Lettuce</item>
+        <item>Tomato</item>
+        <item>Mushrooms</item>
+        <item>Spinach</item>
+        <item>Potato</item>
+        <item>Pineapples</item>
+    </string-array>
+
+    <string-array name="to_do_list">
+        <item>Grocery Shopping</item>
+        <item>Paint Living Room</item>
+        <item>Donate Clothes</item>
+        <item>Get Dry Cleaning</item>
+        <item>Re-organize spice rack</item>
+        <item>Change curtains</item>
+        <item>Set up speaker system</item>
+
+    </string-array>
+</resources>
