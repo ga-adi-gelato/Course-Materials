@@ -1,7 +1,7 @@
 ---
 title: Introduction to Material Design
 type: lesson
-duration: "1:35"
+duration: "1:00"
 creator: James Davis (NYC)
 ---
 
@@ -52,7 +52,7 @@ Let's watch the following to see the thought process of the designers at Google 
 
 https://www.youtube.com/watch?v=rrT6v5sOwJg
 
-## Demo: Utilizing color (20 mins)
+## Demo: Utilizing color (10 mins)
 
 #### Apply the Material theme
 
@@ -134,7 +134,7 @@ In **res/values/colors.xml**:
 
 Changing the values in the colors.xml changes the colors of everything that refers to it.
 
-## Independent Practice: Change the colors of an app (10 mins)
+## Independent Practice: Change the colors of an app (5 mins)
 
 For this practice, create a new Android project with the **blank** Activity template (not empty).
 
@@ -149,7 +149,7 @@ Let's look more about the thought process of the designers at Google as they cre
 https://www.youtube.com/watch?v=32i7ot0y78U
 
 
-## Demo: Importing these widgets (10 mins)
+## Demo: Importing these widgets (5 mins)
 
 For most of you, the Material theme was already applied to your apps! Meaning, your views were already material, and your apps were already material-ish. The theme utilizes a lot of the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html), so you don't have to worry about too much of it.
 
@@ -168,7 +168,7 @@ To do that, open up your **build.gradle** and add the following inside the depen
 
 This adds the design library to your app, importing additional widgets that follow the Google Design Specs.
 
-## Demo: Material design widgets (25 mins)
+## Demo: Material design widgets (10 mins)
 
 > Instructor note: Encourage students to follow along if they would like.
 
