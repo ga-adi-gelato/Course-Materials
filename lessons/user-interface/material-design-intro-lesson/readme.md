@@ -281,7 +281,7 @@ A Card View is a layout type (it extends FrameLayout). It allows you to display 
 First, it's separate from the design library. You import it to your build.gradle dependencies:
 
 ```gradle
-    compile 'com.android.support:cardview-v7:21.0.+'
+    compile 'com.android.support:cardview-v7:24.1.0'
 ```
 
 Then, just like any other view, you put it in your layout:
