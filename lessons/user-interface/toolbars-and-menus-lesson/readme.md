@@ -57,7 +57,7 @@ Finally, when Lollipop (5.0) was released, an upgrade to the ActionBar came with
 
 The ToolBar is its own UI widget that can not only do what the ActionBar did, but can also be moved to other parts of the screen, and hold any other Views in it as well.
 
-> Check: Ask the students to take a few minutes exploring the Play Store / their phones to find a few screenshots of apps they think use Toolbars in places other than the top.
+> Check: Take a few minutes exploring the Play Store / your phones to find a few screenshots of apps you think use Toolbars in places other than the top.
 
 ***
 
@@ -86,7 +86,7 @@ activity_main.xml
     app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 ```
 
-> Instructor Note: Try running the app now. Show that it's just like any other View
+> Note: Try running the app now. It's just like any other View
 
 Now we have a Toolbar, but we need it to be an ActionBar.
 
@@ -97,11 +97,11 @@ Toolbar toolbar = (Toolbar)findViewById(R.id.my_toolbar);
 setSupportActionBar(toolbar);
 ```
 
-> Instructor Note: Try running the app again now.
+> Note: Try running the app again now.
 
 By making it an ActionBar, it adds additional functionality like the back button for easy navigation between activities.
 
-> Check: Ask the students what would happen if we didn't set the elevation property on the Toolbar
+> Check: What would happen if we didn't set the elevation property on the Toolbar
 
 ***
 
@@ -116,7 +116,7 @@ Menus are just like layouts in the sense that they have their own XMLs, and must
 
 Menus are made up of MenuItems, and if they can't all fit on the screen, they automatically move into the overflow menu (represented by the three dots in the top right).
 
-> Check: Ask why we would want to always hide some things in the overflow menu
+> Check: In what scenario would we want to always hide some menu items in the overflow menu?
 
 ***
 
@@ -344,7 +344,7 @@ Now it's easy to add things to our Toolbar. For instance, let's put a TextView i
 
 In pairs, finish the bottom Toolbar by making it look similar to Google Music. Make sure the play button responds to being clicked on by showing something like a Toast or Snackbar.
 
-> Check: Were students able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
+> Check: Were you able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
 
 ***
 
