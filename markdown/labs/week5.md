@@ -7,3 +7,4 @@
 - Wed 7/20: [Usability Testing Lab](https://github.com/ga-adi-nyc/Usability-Testing-Lab)
 - Thu 7/21:
   - [Espresso Lab](https://github.com/ga-adi-nyc/Espresso-Lab)
+  - [Toolbars and Menus Lab](https://github.com/ga-adi-nyc/Toolbars-and-Menus-Lab)
