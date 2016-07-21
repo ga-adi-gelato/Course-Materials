@@ -6,3 +6,4 @@
 - [Debugging in Android Studio](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/debugging-in-android-lesson) (Wednesday, 6/29)
 - [Developer Documentation](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/developer-documentation-lesson) (Wednesday, 7/6)
 - [Diagramming Morning Exercise](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/diagramming-morning-exercise) (Monday, 7/18)
+- [Portfolio Site Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/portfolio-site-lesson) (Wednesday, 7/20)

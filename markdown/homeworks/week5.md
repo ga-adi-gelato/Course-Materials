@@ -8,7 +8,8 @@
   - Optional: [Rather long video from Google I/O](https://youtu.be/k3IT-IJ0J98) about Fragments, including a bit about their history
 - Tue 7/19:
   - [Intro to Material Design HW](https://github.com/ga-adi-nyc/Intro-to-Material-Design-HW)
+- Wed 7/20: none - just finish up the [Usability Testing Lab](https://github.com/ga-adi-nyc/Usability-Testing-Lab)
 
 **Outcomes Assignments:**
-  - Updated resume due 7/20
-  - Sample cover letter due 7/20
+  - Updated resume was due 7/20 - get this to Nicole ASAP
+  - Sample cover letter was due 7/20 - get this to Nicole ASAP

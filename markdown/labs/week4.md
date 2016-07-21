@@ -8,4 +8,4 @@
 - Thu 7/14:
   - [Search View Lab](https://github.com/ga-adi-nyc/Search-View-Lab) &#x2705;
   - [Detail View Lab](https://github.com/ga-adi-nyc/Detail-View-Lab) &#x2705;
-- Fri 7/15: [Joins Lab](https://github.com/ga-adi-nyc/Joins-Lab) &#x0020;
+- Fri 7/15: [Joins Lab](https://github.com/ga-adi-nyc/Joins-Lab) &#x2705;
