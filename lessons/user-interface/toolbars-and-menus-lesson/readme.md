@@ -12,6 +12,7 @@ creator:
 *After this lesson, you will be able to:*
 - Explain the difference between ActionBar and ToolBar
 - Implement a menu in a ToolBar
+- Implement the home button in the Toolbar
 - Place a ToolBar in places other than the ActionBar
 
 ### STUDENT PRE-WORK
