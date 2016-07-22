@@ -75,18 +75,18 @@ The chart below provides data about the relative number of devices running a giv
 
 When talking about API Level, there are three main attributes to take into consideration:
 
-1.  ```android:minSdkVersion```
+1.  **android:minSdkVersion**
 
   An integer designating the minimum API Level required for the application to run. The Android system will prevent the user from installing the application if the system's API Level is lower than the value specified in this attribute. You should always declare this attribute.
 
   *Caution*: If you do not declare this attribute, the system assumes a default value of "1", which indicates that your application is compatible with all versions of Android. If your application is not compatible with all versions (for instance, it uses APIs introduced in API Level 3) and you have not declared the proper minSdkVersion, then when installed on a system with an API Level less than 3, the application will crash during runtime when attempting to access the unavailable APIs. For this reason, be certain to declare the appropriate API Level in the minSdkVersion attribute.
 
-2. ```android:targetSdkVersion```
+2. **android:targetSdkVersion**
 
   An integer designating the API Level that the application targets. If not set, the default value equals that given to minSdkVersion.
   This attribute informs the system that you have tested against the target version and the system should not enable any compatibility behaviors to maintain your app's forward-compatibility with the target version. The application is still able to run on older versions (down to minSdkVersion). To maintain your application along with each Android release, you should increase the value of this attribute to match the latest API level, then thoroughly test your application on the corresponding platform version.
 
-3.  ```android:maxSdkVersion```
+3.  **android:maxSdkVersion**
 
   An integer designating the maximum API Level on which the application is designed to run.
   In Android 1.5, 1.6, 2.0, and 2.0.1, the system checks the value of this attribute when installing an application and when re-validating the application after a system update. In either case, if the application's maxSdkVersion attribute is lower than the API Level used by the system itself, then the system will not allow the application to be installed. In the case of re-validation after system update, this effectively removes your application from the device.
