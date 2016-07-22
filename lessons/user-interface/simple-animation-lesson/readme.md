@@ -135,13 +135,9 @@ All interpolators available in Android are subclasses of the Interpolator class.
 
 Let's take two minutes and watch this video about different types of [interpolators](https://www.youtube.com/watch?v=6UL7PXdJ6-E) to get familiar with them.
 
-> Instructor Notes: There should be 2 minutes' pause to show the video on the projector.
-
 ## Demo: Interpolators (5 mins)  
 Now let's see how interpolators work in code. Import [InterpolatorApp] (https://github.com/generalassembly-studio/ADI-curriculum/tree/simple-animation-lesson/resources/04-workflow-and-dev-tools/simple-animation-lesson/InterpolatorApp) and run the project.  
 <img src="screenshots/interpolator_app.gif" height="300px">
-
-> Instructor Notes: Discuss 4 xml files in the folder res/anim: **pull_right.xml**, **pull_left.xml**, **push_out_left.xml**, **push_out_right.xml**. The transition between 2 activities is sliding from left to right. Pay students' attention to the fact that each anim file has an ```android:interpolator``` attribute.
 
 ## Introduction: View Animation (5 mins)
 Android lets you define properties of Views that should be animated using a technique called tween animation. You implement the animation by specifying transformations on your View at the start and at the end of the animation. It also calculates the animation with information such as size and rotation. This can be done in XML resource files or programmatically. So, if you have a TextView object, you can move, rotate, grow, or shrink the text. If it has a background image, the background image will be transformed along with the text.
@@ -276,8 +272,6 @@ The layout code animation app could be found in [ViewAnimation] (https://github.
 ## Independent Practice: Layout Animation (15 mins)  
 Import the project [ViewAnimation] (https://github.com/generalassembly-studio/ADI-curriculum/tree/simple-animation-lesson/resources/04-workflow-and-dev-tools/simple-animation-lesson/ViewAnimation), click the button "nextActivity" and you will be redirected to the activity that deals with layout animation. Every time you click the button "add button", another button gets added to the view group. Create another button "delete button"  that will remove a button from the same view group. Look at the screenshot:   
 <img src="screenshots/independent_practice_solution.gif" height="400px">
-
-> Instructor Notes: The solution code to independent practice can be found in the [IndependentPracticeSolutionCode project] (https://github.com/generalassembly-studio/ADI-curriculum/tree/simple-animation-lesson/resources/04-workflow-and-dev-tools/simple-animation-lesson/IndependentPracticeSolution).
 
 ## Check (5 mins)
  1. What are the 12 universal principles of animation?
