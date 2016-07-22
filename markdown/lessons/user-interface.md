@@ -8,3 +8,4 @@
 - [AlertDialogs](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/developer-documentation-lesson) (Covered in the Developer Documentation lesson on Wednesday, 7/6)
 - [Material Design Introduction](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/material-design-intro-lesson) (Tuesday, 7/19)
 - [Toolbars and Menus](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/toolbars-and-menus-lesson) (Thursday, 7/21)
+- [Simple Animation](https://github.com/ga-adi-nyc/Course-Materials/blob/master/lessons/user-interface/simple-animation-lesson/) (Friday, 7/22)
