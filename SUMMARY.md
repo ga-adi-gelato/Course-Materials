@@ -25,5 +25,6 @@
    * [Week 3](markdown/homeworks/week3.md)
    * [Week 4](markdown/homeworks/week4.md)
    * [Week 5](markdown/homeworks/week5.md)
+   * [Week 6](markdown/homeworks/week6.md)
 * [Projects](markdown/projects.md)
 
