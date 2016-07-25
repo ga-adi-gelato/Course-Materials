@@ -9,5 +9,5 @@
   - [Espresso Lab](https://github.com/ga-adi-nyc/Espresso-Lab) &#x2705;
   - [Toolbars and Menus Lab](https://github.com/ga-adi-nyc/Toolbars-and-Menus-Lab)
 - Fri 7/22:
-  - [Simple Animation Lab](https://github.com/ga-adi-nyc/Animations-Lab)
+  - [Simple Animation Lab](https://github.com/ga-adi-nyc/Animations-Lab) &#x2705;
   - [Multiple Devices Lab](https://github.com/ga-adi-nyc/multiple-devices-lab)
