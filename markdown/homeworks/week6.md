@@ -2,6 +2,7 @@
 
 - Mon 7/25 thru Thu 7/28: No homework besides working on Project 2. Projects will be due Friday afternoon, and everyone will demo their project for the class.
 
+
 - Fri 7/29:
   - **Submit your Project 2 pull request!** We're still missing a handful.
     - If you're missing requirements, keep working over the weekend! New commits you push will be added to the open pull request automatically.
