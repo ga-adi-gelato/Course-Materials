@@ -1,11 +1,10 @@
 # Week 6 Homework
 
-No homework this week besides working on Project 2. Projects will be due Friday afternoon, and everyone will demo their project for the class.
+- Mon 7/25 thru Thu 7/28: No homework besides working on Project 2. Projects will be due Friday afternoon, and everyone will demo their project for the class.
 
-Suggestions for how to organize your thoughts for Project 2:
-  - Finish your user stories if you haven't done them - know exactly what features you plan to implement
-  - Draw your paper prototype & list out all the XML files you'll need
-  - Plan your database tables and the corresponding custom Java classes to hold the data once you get it from your cursors
-  - List all the adapters, fragments, view holders, etc. you'll need to make each screen work
-  - _**Prioritize your features - don't work on bonuses before your main requirements are met!**_
-  - _**Before working on a new feature, make sure your app builds and runs successfully - don't start working on feature #2 if feature #1 is still crashing!**_
+- Fri 7/29:
+  - **Submit your Project 2 pull request!** We're still missing a handful.
+    - If you're missing requirements, keep working over the weekend! New commits you push will be added to the open pull request automatically.
+    - You need to show us you can implement the required features, but don't fall behind next week because you're still distracted by Project 2. Make the most of this weekend!
+  - Do you have old, partially-complete labs & homeworks you never submitted? **Submit them now!** We may be able to give you credit for some, but we can't if you never submit them.
+  - Watch [this video](https://www.youtube.com/watch?v=7YcW25PHnAA) as a preview for next week on REST APIs, JSON-formatted data, and OAuth authentication.
