@@ -4,7 +4,7 @@
 
 - Mon 8/1:
   - [JSON Lab](https://github.com/ga-adi-nyc/json-lab)
-  - Practicing HTTP and REST Concepts Lab
+  - [HTTP & REST Lab](https://github.com/ga-adi-nyc/Http-Rest-Lab)
 
 
 - Tue 8/2:
