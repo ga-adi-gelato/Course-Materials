@@ -10,3 +10,4 @@
 - [Toolbars and Menus](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/toolbars-and-menus-lesson) (Thursday, 7/21)
 - [Simple Animation](https://github.com/ga-adi-nyc/Course-Materials/blob/master/lessons/user-interface/simple-animation-lesson/) (Friday, 7/22)
 - [Building Accessible Apps](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/accessible-apps-lesson) (Monday, 7/25)
+- [Drag & Swipe Morning Exercise](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/drag-and-swipe-morning-exercise) (Monday, 8/1)
