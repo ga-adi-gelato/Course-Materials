@@ -3,7 +3,7 @@
 &#x2705; = solution posted
 
 - Mon 8/1:
-  - JSON Lab
+  - [JSON Lab](https://github.com/ga-adi-nyc/json-lab)
   - Practicing HTTP and REST Concepts Lab
 
 
