@@ -115,7 +115,7 @@ Look at the url and break it into separate parts. Name each of them:
 http://www.acme.com/phonebook/UserDetails?firstName=John&lastName=Doe
 ```
 
-> Check: Can students identify the correct parts of a URL?
+> Check: Can you identify the correct parts of a URL?
 
 ## Introduction: Client request (5 mins)
 HTTP messages are made of a **header** and a **body**. The body can often remain empty; it contains data that you want to transmit over the network, in order to use it according to the instructions in the header. The header contains metadata, such as encoding information; but, in the case of a request, it also contains the important HTTP methods. Now let's look at the client request.
@@ -229,7 +229,6 @@ home=Cosby&favorite+flavor=flies
 
 After receiving and interpreting a request message, a server responds with an HTTP response message. Its main parts are status line, response header and body.
 
-> Instructor note: Breakdown the server response below
 
 ```
 HTTP/1.1 200 OK                               status line
