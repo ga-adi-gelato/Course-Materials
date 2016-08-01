@@ -7,7 +7,7 @@
   - Optional: If you're curious about threading from the hardware level, check out [this longer video](https://youtu.be/hsERPf9k54U)
        
 
-- Tue 8/2: Threading practice HW
+- Tue 8/2: [Threading practice HW](https://github.com/ga-adi-nyc/Threading-Practice-HW)
 
 
 - Wed 8/3: API Documentation HW
