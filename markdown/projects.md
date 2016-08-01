@@ -8,7 +8,7 @@
 - [Project 1 - To-Do Lists](https://github.com/ga-adi-nyc/Project-1---To-Do-List): Due Friday, 7/8 &#x2705;
 
 
-- [Project 2 - Mobile Commerce App](https://github.com/ga-adi-nyc/Project-2---Ecommerce-Mobile-App): Due Friday, 7/29
+- [Project 2 - Mobile Commerce App](https://github.com/ga-adi-nyc/Project-2---Ecommerce-Mobile-App): Due Friday, 7/29 &#x2705;
 
 
 - Project 3 - Team Project: Due Friday, 8/19
