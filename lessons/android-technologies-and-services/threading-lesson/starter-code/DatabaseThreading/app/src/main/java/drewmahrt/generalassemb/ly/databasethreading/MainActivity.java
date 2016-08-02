@@ -15,6 +15,7 @@ import drewmahrt.generalassemb.ly.databasethreading.classesyoudontneedtomodify.E
 import drewmahrt.generalassemb.ly.databasethreading.classesyoudontneedtomodify.RecyclerViewCursorAdapter;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+    ProgressBar mProgressBar;
     TextView mTextView;
 
     RecyclerView mRecyclerView;
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        mProgressBar = (ProgressBar) findViewById(R.id.progress);
         mTextView = (TextView) findViewById(R.id.text);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerview);
@@ -63,6 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void addDatabaseItems(){
         mTextView.setText("Adding items to database...");
+        mProgressBar.setVisibility(View.VISIBLE);
 
         for (int i = 0; i < 3000; i++) {
             ExampleDBHelper.getInstance(getApplicationContext()).addName("John","Doe");
@@ -70,6 +73,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         int count = ExampleDBHelper.getInstance(getApplicationContext()).getItemCount();
         mTextView.setText("All items added to database! Current item count: " + count);
+        mProgressBar.setVisibility(View.INVISIBLE);
         mAdapter.swapCursor(ExampleDBHelper.getInstance(getApplicationContext()).getFirstHundred());
     }
 
