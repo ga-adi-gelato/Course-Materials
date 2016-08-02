@@ -144,6 +144,7 @@ Android Studio will tell us there are two un-handled Exceptions, and it will try
 
 ```java
 URL url = null;
+HttpURLConnection urlConnection = null;
 
 try {
     url = new URL("http://www.google.com");
@@ -152,7 +153,7 @@ try {
 }
 
 try {
-    HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+    urlConnection = (HttpURLConnection) url.openConnection();
 } catch (IOException e) {
     e.printStackTrace();
 } finally {
@@ -164,10 +165,11 @@ We can consolidate the blocks like this:
 
 ```java
 URL url = null;
+HttpURLConnection urlConnection = null;
 
 try {
     url = new URL("http://www.google.com");
-    HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+    urlConnection = (HttpURLConnection) url.openConnection();
 } catch (MalformedURLException e) {
     e.printStackTrace();
 } catch (IOException e) {

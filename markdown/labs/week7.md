@@ -8,7 +8,7 @@
 
 
 - Tue 8/2:
-  - Retrieve Data from an API Lab
+  - [API Lab](https://github.com/ga-adi-nyc/api-lab)
   - Thread-Safe Lab: Image Processing
 
 
