@@ -104,7 +104,7 @@ The three types used by an asynchronous task are the following:
 Not all types are always used by an asynchronous task. To mark a type as unused, simply use the type Void:
 
 ```java
-private class MyTask extends AsyncTask<Void, Void, V,i> { ... }
+private class MyTask extends AsyncTask<Void, Void, Void> { ... }
 ```
 When an asynchronous task is executed, the task goes through four steps with associated methods:
 
