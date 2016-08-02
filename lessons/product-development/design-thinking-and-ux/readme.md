@@ -17,7 +17,7 @@ creator: Stanford DSchool
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Be familiar with clickable prototype tools
+- Be familiar with clickable prototype tools (e.g. [POP](https://popapp.in/))
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
@@ -62,9 +62,7 @@ UX is also known as user-­centered design. It’s a process for building things
 
 ## Demo: Intro to Design Thinking (5 mins)
 
-Design thinking is the foundation of the modern UX design process. Instead of telling you about it, we’re just going to jump right in so you can experience it firsthand. This activity will extend through the next two days.
-
-First, make sure you have a copy of the [Design Thinking Activity Worksheet](assets/design-thinking-activity-worksheet.pdf).
+Design thinking is the foundation of the modern UX design process. Instead of telling you about it, we’re just going to jump right in so you can experience it firsthand.
 
 Think about a traditional wallet.  Now, individually, take 3 minutes to come up with some ideas for what your ‘ideal’ wallet looks like - go ahead and draw an idea for a better wallet.
 
@@ -81,6 +79,8 @@ Let’s try something else, a human-centered design thinking approach that invol
 - Ideation
 - Prototyping
 - Testing
+
+To try this out, make sure you have a copy of the [Design Thinking Activity Worksheet](assets/design-thinking-activity-worksheet.pdf).
 
 
 ## Guided Practice: Empathize (15 mins)
@@ -130,10 +130,10 @@ Now that your first round is done, follow up on things that intrigued you during
 - Ask ‘WHY?’ early and often
 - Find out what’s important to your partner, outside of their wallet:
 
-  - Why does he still carry a picture of his ex-girlfriend?
-  - When was a time he carried a lot of cash? What does she remember most about her first paying job?
+  - Why do they still carry a picture of their ex?
+  - When was a time they carried a lot of cash? What do they remember most about their first paying job?
 
-> Instructor note: Remind them you will let them know when time is up.\
+> Instructor note: Remind them you will let them know when time is up.
 
 Again, make note of any unexpected discoveries along the way and be sure to capture quotes!
 
@@ -201,7 +201,7 @@ Things to consider:
 - How might this solution fit into the context of your partner’s life?
 - When and how might they handle or encounter your solution?
 
-To create this "solution", create a clickable prototype, an experience that your partner can react to. Use a tool that we've reviewed in class or that you've used for homework.
+To create this "solution", create a clickable prototype, an experience that your partner can react to. Use the [POP app](https://popapp.in/) to generate a clickable prototype from photos of a paper prototype.
 
 Make something that your partner can engage and interact with. If your solution is a service or a system, try to create an app that allows your partner to experience this innovation. If your solution is huge, try creating only part of it.
 
