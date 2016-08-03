@@ -8,8 +8,8 @@
 
 
 - Tue 8/2:
-  - [API Lab](https://github.com/ga-adi-nyc/api-lab)
-  - [Thread-Safe Lab: Image Processing](https://github.com/ga-adi-nyc/Threading-Lab)
+  - [API Lab](https://github.com/ga-adi-nyc/api-lab) &#x2705;
+  - [Thread-Safe Lab: Image Processing](https://github.com/ga-adi-nyc/Threading-Lab) &#x2705;
 
 
 - Wed 8/3: None
