@@ -46,8 +46,6 @@ creator:
 ---
 ## Opening (5 mins)
 
-> Check: Ask the students to identify the main use cases for networking in Android.
-
 Networking in android is mainly about the ability to send and receive data from remote server. This data can be either a plain text, XML, JSON, image or a video stream. Android the HttpURLConnection to make network calls.
 
 ## Introduction: Check the Network Connection (10 mins)
@@ -77,7 +75,6 @@ Together, let's create a new project. Let's add a ScrollView and TextView to the
 
 Add the code above and then, with a partner, write code that displays a toast to prompt the user about the connectivity state (whether the app is connected or not).
 
-> Check:  Ask students to share out with 1 minute left.
 
 ## Demo: Connect and Download Data (15 mins)
 
@@ -129,7 +126,6 @@ public String readIt(InputStream stream) throws IOException {
   }
 ```
 
-> Check: To better understand what we'll be working with, take 5 minutes and work with the person next to you to get on the web and research/find the contents of a web response.  Be ready to share!
 
 ## Introduction: Perform Network Operations on a Separate Thread (5 mins)
 
@@ -139,7 +135,6 @@ Network operations can involve unpredictable delays. To prevent this from causin
 
 Having the helper method `downloadUrl()`, with a partner, create a new AsyncTask, which should be called after you check if there is network connection and will return some API data. Display the data in the text view. Remember that updating the UI should be always done on the main thread (use  `onPostExecute()` method).
 
->Instructor note: The solution code is [available here](solution-code).
 
 ## Guided Practice: Transition from Postman to Android (15 mins)
 
@@ -193,7 +188,6 @@ param1 = hello
 param2 = 30
 
 
-> Check: Ask the students to explain why we need different code for the GET and POST requests.
 
 ## Introduction: Process data returned from a network connection (5 mins)  
 
@@ -218,11 +212,9 @@ To get an attribute of an object we need to use ```getType()``` method and pass 
 int any = repo.getInt("number");
 ```
 
-> Check: Why do we need to parse the JSON object?
 
 ## Demo: Process data returned from a network connection (10 mins)  
 
-> Instructor Note: In the app DownloadData, uncomment the code (that is marked with a comment to uncomment it) then, explain to the students how processing data returned from a network connection works. Change the return value from `contentAsString` to `processedJson` that will be displayed in the text view.
 
 In our app we have used the GitHub API that returns information about repos that a user has on GitHub. Let's process JSON in the way the user will see just the names of the repos.
 
@@ -335,7 +327,6 @@ private String parseJson(String contentAsString) throws JSONException {
   }
 ```
 
-> Check: Take 1 minute and work with the person next to you to discuss what the code above is accomplishing.
 
 As we can see our root element in JSON is an array that has some repo objects. Thus we instantiate `JSONArray` and pass in our pure JSON data as an argument. Then we iterate through JSON array and get each object repo `JSONObject repo`. We retrieve the name of the repo by calling `getString("name")` on each object.
 
