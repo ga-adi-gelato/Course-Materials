@@ -16,7 +16,7 @@
 
 
 - Thu 8/4:
-  - Making an HTTP call from Android
+  - [Networking in Android](https://github.com/ga-adi-nyc/networking-in-android-lab)
   - OAuth Twitter Lab
 
 
