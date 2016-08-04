@@ -22,10 +22,6 @@ creator:
 - Explain HTTP requests
 - Use and explain API documentation
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- This lesson relies heavily on Instagram's API, which is subject to change. **Before you teach this lesson, be sure to test out all of the code below, as you may need to make adjustments to accommodate any changes that Instagram makes to its API.** Instagram also now requires new applications to undergo approval before granting full API access, so it's strongly recommended that you set up your API credentials in advance (or use a set of credentials that have already been approved). API credentials that are sandboxed awaiting approval will be able to access the authenticated user's photos but not all public photos, so the below exercise should still work, albeit with a limited amount of content.
-
 ---
 
 
