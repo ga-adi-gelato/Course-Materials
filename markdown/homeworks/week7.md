@@ -10,7 +10,7 @@
 - Tue 8/2: [Threading practice HW](https://github.com/ga-adi-nyc/Threading-Practice-HW)
 
 
-- Wed 8/3: API Documentation HW
+- Wed 8/3: [API Documentation HW](https://github.com/ga-adi-nyc/API-Documentation-HW)
 
 
 - Thu 8/4: OAuth HW
