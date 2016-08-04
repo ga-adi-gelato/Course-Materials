@@ -13,7 +13,7 @@
 - Wed 8/3: [API Documentation HW](https://github.com/ga-adi-nyc/API-Documentation-HW) &#x2705;
 
 
-- Thu 8/4: OAuth HW
+- Thu 8/4: None
 
 
 - Fri 8/5: User research and competitive research for Project 3
