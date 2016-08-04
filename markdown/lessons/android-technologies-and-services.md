@@ -3,4 +3,5 @@
 - [Enabling Search](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/enable-search-lesson) (Thursday, 7/14)
 - [Designing for Multiple Devices](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/multiple-devices-lesson) (Friday, 7/22)
 - [Building Accessible Apps](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/accessible-apps-lesson) (Monday, 7/25)
-- Threading (Tuesday, 8/2)
+- [Threading](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/threading-lesson) (Tuesday, 8/2)
+- [Efficient Apps Morning Exercise](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/efficient-apps-morning-exercise) (Thursday, 8/3)

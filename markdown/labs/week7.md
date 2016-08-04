@@ -8,15 +8,15 @@
 
 
 - Tue 8/2:
-  - [API Lab](https://github.com/ga-adi-nyc/api-lab)
-  - Thread-Safe Lab: Image Processing
+  - [API Lab](https://github.com/ga-adi-nyc/api-lab) &#x2705;
+  - [Thread-Safe Lab: Image Processing](https://github.com/ga-adi-nyc/Threading-Lab) &#x2705;
 
 
 - Wed 8/3: None
 
 
 - Thu 8/4:
-  - Making an HTTP call from Android
+  - [Networking in Android](https://github.com/ga-adi-nyc/networking-in-android-lab)
   - OAuth Twitter Lab
 
 
