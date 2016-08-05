@@ -16,4 +16,4 @@
 - Thu 8/4: None
 
 
-- Fri 8/5: User research and competitive research for Project 3
+- Fri 8/5: [User research and competitive research for Project 3](https://github.com/ga-adi-nyc/User-and-Competitor-Research-HW)
