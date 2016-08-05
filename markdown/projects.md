@@ -11,7 +11,7 @@
 - [Project 2 - Mobile Commerce App](https://github.com/ga-adi-nyc/Project-2---Ecommerce-Mobile-App): Due Friday, 7/29 &#x2705;
 
 
-- Project 3 - Team Project: Due Friday, 8/19
+- [Project 3 - Team Project](https://github.com/ga-adi-nyc/Project-3---Team-Project): Due Friday, 8/19
   - Pitch/proposal presentations: Thursday 8/11
   - Project demos/presentations: Friday, 8/19
 
