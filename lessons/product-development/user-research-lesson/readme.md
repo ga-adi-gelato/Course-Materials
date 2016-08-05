@@ -24,7 +24,7 @@ creator:
 
 ### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
-- Print out and share enough copies of the [Research Plan Template](assets/research-plan-template.pdf) to be used in class
+- Print out and share enough copies of the [Research Plan Template](assets/research-plan-worksheet.pdf) to be used in class
 
 
 ### LESSON GUIDE
@@ -78,7 +78,7 @@ __Example__: If you were working on a cooking product, you might arrange to meet
 
 Today you’ll be researching a vacation guide app. We’re going to write a research plan. It shouldn’t be more than a page; it’s only to keep ourselves focused during the research process.
 
-Let's go ahead and open the [Research Plan Template](assets/research-plan-template.pdf).
+Let's go ahead and open the [Research Plan Template](assets/research-plan-worksheet.pdf).
 
 
 Now, take a look at [an example](assets/sound-cloud-research-plan.pdf) of a user research plan SoundCloud put together to look into a live collaborative DJ feature.  
@@ -89,7 +89,7 @@ These questions, at a high level, will be used to answer the following:
 - What do you want to learn about, related to this topic? (These are your research goals.)
 - What can you ask about, that would help you learn about the topic? Can you break your research out into smaller pieces to make the scope more manageable?
 
-In pairs, use the [Research Plan Template](assets/research-plan-template.pdf) to come up with a plan that would help you understand people’s pain points when searching for vacation destinations. Don't actually write interview questions for the script portion - we’ll be writing actual questions soon.
+In pairs, use the [Research Plan Template](assets/research-plan-worksheet.pdf) to come up with a plan that would help you understand people’s pain points when searching for vacation destinations. Don't actually write interview questions for the script portion - we’ll be writing actual questions soon.
 
 ## Introduction: Interview Prep (15 mins)
 
