@@ -17,7 +17,7 @@
 
 - Thu 8/4:
   - [Networking in Android](https://github.com/ga-adi-nyc/networking-in-android-lab)
-  - OAuth Twitter Lab
+  - [OAuth Twitter Lab](https://github.com/ga-adi-nyc/OAuth-Lab)
 
 
 - Fri 8/5: None
