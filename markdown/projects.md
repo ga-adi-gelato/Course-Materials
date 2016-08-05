@@ -16,6 +16,7 @@
   - Project demos/presentations: Friday, 8/19
 
 
+---
 
 Suggestions for how to approach your projects:
 - Write user stories - know exactly what features you plan to implement
