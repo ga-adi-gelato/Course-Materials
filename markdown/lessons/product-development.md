@@ -5,4 +5,4 @@
 - [Design Thinking and UX](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/design-thinking-and-ux) (Wednesday, 8/3)
 - [User Research](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-research-lesson) (Friday, 8/5)
 - [Competitor Research](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/competitive-research-lesson) (Friday, 8/5)
-- User Goals and User Flows (Friday, 8/5)
+- [User Goals and User Flows](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-goals-and-flows-lesson) (Friday, 8/5)
