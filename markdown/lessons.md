@@ -17,7 +17,7 @@
 
 #### Lessons by Week
 
-1. Week 1
+- Week 1
   - [Your Learning Experience](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/orientation-materials/your-learning-experience-lesson)
   - [Intro to Android](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/orientation-materials/android-intro-lesson)
   - [Data Types and Variables](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/data-types-and-variables)
@@ -29,7 +29,7 @@
   - [Data Collections](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/data-collections-lesson)
 
 
-2. Week 2
+- Week 2
   - [Jeopardy Review 1](https://www.jeopardy.rocks/adigelatoweek1)
   - [Organizing Information](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/organizing-info-lesson)
   - [Classes](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/programming-fundamentals-in-java/classes-lesson)
@@ -44,7 +44,7 @@
   - [ListViews and ListAdapters](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/listviews-listadapters-lesson)
 
 
-3. Week 3
+- Week 3
   - [Whiteboarding 101](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboarding-lesson)
   - [Paper Prototyping](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/paper-prototyping)
   - [RecyclerView](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/recyclerview-lesson)
@@ -52,7 +52,7 @@
   - [Whiteboard Morning Exercise 1](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise)
 
 
-4. Week 4
+- Week 4
   - [Jeopardy Review 2](https://www.superteachertools.us/jeopardyx/answerkey.php?game=1924373)
   - [Databases Introduction](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/databases-intro)
   - [SQLite](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/sqlite-lesson)
@@ -68,7 +68,7 @@
   - [Joins](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/joins-lesson)
 
 
-5. Week 5
+- Week 5
   - [Activity Lifecycle Part 1](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/activities-and-fragments/activity-life-cycle-1-lesson)
   - [Activity Lifecycle Part 2](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/activities-and-fragments/activity-life-cycle-2-lesson)
   - [Material Design](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/material-design-intro-lesson)
@@ -82,12 +82,12 @@
   - [Multiple Devices and Languages](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/multiple-devices-lesson)
 
 
-6. Week 6
+- Week 6
   - [Accessible Apps](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/accessible-apps-lesson)
   - [Whiteboard Morning Exercise 4](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise4)
 
 
-7. Week 7
+- Week 7
   - [Drag and Swipe with RecyclerView](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/drag-and-swipe-morning-exercise)
   - [JSON](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/json-lesson)
   - [HTTP and REST](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/http-rest-lesson)
@@ -104,7 +104,7 @@
   - [User Goals and Flows](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-goals-and-flows-lesson)
 
 
-8. Week 8
+- Week 8
   - [GSON](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/gson-lesson)
   - Services
   - Notifications
