@@ -107,7 +107,7 @@
 - Week 8
   - [GSON](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/gson-lesson)
   - [Services](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/services-lesson)
-  - Notifications
+  - [Notifications](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/notifications-lesson)
   - User Personas
   - Google Play Services
   - Content Providers
