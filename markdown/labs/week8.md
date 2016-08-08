@@ -3,7 +3,7 @@
 &#x2705; = solution posted
 
 - Mon 8/8:
-  - Services Lab
+  - [Services Lab](https://github.com/ga-adi-nyc/Services-Lab)
   - Notifications Lab
 
 
