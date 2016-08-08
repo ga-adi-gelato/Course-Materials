@@ -9,3 +9,5 @@
 - [Detail View Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/detailed-view-lesson) (Thursday, 7/14)
 - [Joins](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/joins-lesson) (Friday, 7/15)
 - [Database Relationships Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/database-relationships-lesson) (Read for HW - Friday, 7/15)
+- Content Providers (Tuesday, 8/9)
+- External Content Proviers (Thursday, 8/11)

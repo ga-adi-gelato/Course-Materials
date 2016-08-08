@@ -7,6 +7,7 @@
 - [Week 5](homeworks/week5.md) (7/18 - 7/22)
 - [Week 6](homeworks/week6.md) (7/25 - 7/29)
 - [Week 7](homeworks/week7.md) (8/1 - 8/5)
+- [Week 8](homeworks/week8.md) (8/8 - 8/12)
 
 
 ---
