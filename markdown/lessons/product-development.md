@@ -6,3 +6,5 @@
 - [User Research](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-research-lesson) (Friday, 8/5)
 - [Competitor Research](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/competitive-research-lesson) (Friday, 8/5)
 - [User Goals and User Flows](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-goals-and-flows-lesson) (Friday, 8/5)
+- User Personas (Tuesday, 8/9)
+- Feature Prioritization (Thursday, 8/11)

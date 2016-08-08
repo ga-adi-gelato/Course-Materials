@@ -7,3 +7,5 @@
 - [Developer Documentation](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/developer-documentation-lesson) (Wednesday, 7/6)
 - [Diagramming Morning Exercise](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/diagramming-morning-exercise) (Monday, 7/18)
 - [Portfolio Site Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/portfolio-site-lesson) (Wednesday, 7/20)
+- Git Team Workflow Part 1 (Wednesday 8/10)
+- Git Team Workflow Part 2 (Wednesday 8/10)
