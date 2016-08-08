@@ -61,6 +61,10 @@ A Service is **not** a thread. It is not a means itself to do work off of the ma
 
 #### Service class methods
 
+<p align="center">
+  <img src="assets/service_lifecycle.png">
+</p>
+
 There are a number of important methods in the service class, they are:
 
 [`onCreate()`](http://developer.android.com/reference/android/app/Service.html#onCreate()): The system calls this method when the service is first created, to perform one-time setup procedures (before it calls either `onStartCommand()` or `onBind()`). If the service is already running, this method is not called.
@@ -80,14 +84,6 @@ This method returns an int that describes how the service should restart if it n
 For services started by `Context.startService()`, `onCreate()` is called first, and then `onStartCommand()`.
 
 For services that are bound via `Context.bindService()`, `onCreate()` is called first, and then `onBind()`. Note that `onStartCommand()` **is not called**.
-
-***
-
-#### Guided PracticeService lifecycle (5 mins)
-
-<p align="center">
-  <img src="http://developer.android.com/images/service_lifecycle.pn">
-</p>
 
 
 ***
