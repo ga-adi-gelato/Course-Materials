@@ -3,8 +3,8 @@
 &#x2705; = solution posted
 
 - Mon 8/1:
-  - GSON Homework
-  - Reading on Content Providers
+  - [GSON Homework](https://github.com/ga-adi-nyc/GSON-Practice-HW)
+  - [Read about Content Providers](http://www.grokkingandroid.com/android-tutorial-content-provider-basics/) as a preview for Tuesday
        
 
 - Tue 8/2:
