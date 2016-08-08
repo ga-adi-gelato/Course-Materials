@@ -6,3 +6,4 @@
 - [API Documentation](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/api-documentation-lesson) (Wednesday, 8/3)
 - [Networking in Android](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/networking-in-android) (Thursday, 8/4)
 - [OAuth](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/oauth-lesson) (Thursday, 8/4)
+- [GSON](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/gson-lesson) (Monday, 8/8)
