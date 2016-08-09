@@ -109,7 +109,7 @@
   - [Services](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/services-lesson)
   - [Notifications](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/notifications-lesson)
   - [User Personas](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-personas-lesson)
-  - Google Play Services
+  - [Google Play Services](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/google-play-services-lesson)
   - Content Providers
   - Git Team Workflow Part 1
   - Git Team Workflow Part 2
