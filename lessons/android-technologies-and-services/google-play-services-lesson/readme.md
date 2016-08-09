@@ -49,7 +49,7 @@ Some devices choose not to use Play Services, such as the Fire line by Amazon. T
 
 Any device running Android 2.3 or newer has access to Play Services, and it automatically updates from the Play Store. Previously, new features were primarily rolled out through updates to Android, but with device manufacturers and service providers causing long delays, Play Services allows Google to quickly update all compatible devices.
 
-Google updates Google Play Services often with some very cool features. Let's take a look at a [Youtube video](https://www.youtube.com/watch?v=nZjY_DPO1qs).
+Google updates Google Play Services often with some very cool features. Let's take a look at a [Youtube video](https://www.youtube.com/watch?v=-xwKQa9Tm5k).
 
 Keep an eye on the Google Developers YouTube channel for new updates about new features from Google.
 
