@@ -101,7 +101,7 @@ First things first; we need to set up Google Analytics for Android.
 5. Create Analytics account and enable analytics service  
 <img src="images/create_new_analytics_account.png" width="500"/>
 
-6.Take note of your tracking ID and generate configuration files  
+6. Take note of your tracking ID and generate configuration files  
 <img src="images/your_tracking_id.png" width="500"/>
 
 ---
