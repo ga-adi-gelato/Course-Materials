@@ -85,19 +85,23 @@ Next, if you use an emulator, make sure you chose an image that includes Google 
 
 We are going to implement Google Analytics into an app.
 First things first; we need to set up Google Analytics for Android.
+1. [Enable Google services for your app](https://developers.google.com/mobile/add) (You can click me)  
+<img src="images/developer_console_setup.png" width="500"/>
 
-1. <p>[Enable Google services for your app](https://developers.google.com/mobile/add) (You can click me)
-<img src="images/developer_console_setup.png" width="500"/></p>
-2. <p>Pick your platform
-<img src="images/platform_select.png" width="500"/></p>
-3. <p>Create your app
-<img src="images/create_app.png" width="500"/></p>
-4. <p>Select your service (Analytics)
-<img src="images/select_service.png" width="500"/></p>
-5. <p>Create Analytics account and enable analytics service
-<img src="images/create_new_analytics_account.png" width="500"/></p>
-6.<p>Take note of your tracking ID and generate configuration files
-<img src="images/your_tracking_id.png" width="500"/></p>
+2. Pick your platform  
+<img src="images/platform_select.png" width="500"/>
+
+3. Create your app  
+<img src="images/create_app.png" width="500"/>
+
+4. Select your service (Analytics)  
+<img src="images/select_service.png" width="500"/>
+
+5. Create Analytics account and enable analytics service  
+<img src="images/create_new_analytics_account.png" width="500"/>
+
+6.Take note of your tracking ID and generate configuration files  
+<img src="images/your_tracking_id.png" width="500"/>
 
 ---
 Now we need to implement Google Analytics in our app. There are a few ways to do this.
