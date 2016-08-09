@@ -8,7 +8,7 @@
 
 
 - Tue 8/9:
-  - Implementing Google Play Services Lab
+  - [Implementing Google Play Services Lab](https://github.com/ga-adi-nyc/Play-Services-Lab)
   - Content Provider Lab
 
 
