@@ -85,6 +85,7 @@ Next, if you use an emulator, make sure you chose an image that includes Google 
 
 We are going to implement Google Analytics into an app.
 First things first; we need to set up Google Analytics for Android.
+
 1. [Enable Google services for your app](https://developers.google.com/mobile/add) (You can click me)  
 <img src="images/developer_console_setup.png" width="500"/>
 
