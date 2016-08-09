@@ -3,13 +3,13 @@
 &#x2705; = solution posted
 
 - Mon 8/8:
-  - [Services Lab](https://github.com/ga-adi-nyc/Services-Lab)
-  - [Notifications Lab](https://github.com/ga-adi-nyc/Notifications-Lab)
+  - [Services Lab](https://github.com/ga-adi-nyc/Services-Lab) &#x2705;
+  - [Notifications Lab](https://github.com/ga-adi-nyc/Notifications-Lab) &#x2705;
 
 
 - Tue 8/9:
   - [Implementing Google Play Services Lab](https://github.com/ga-adi-nyc/Play-Services-Lab)
-  - Content Provider Lab
+  - [Content Provider Lab](https://github.com/ga-adi-nyc/Content-Providers-Lab)
 
 
 - Wed 8/10: None
