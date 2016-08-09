@@ -8,11 +8,15 @@
        
 
 - Tue 8/2:
-  - User Stories & Personas for Project 3
-  - Reading on Git Branching
+  - Required reading on Git branching:
+    - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
+    - [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+    - [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) (the Conceptual Overview section)
+    - [Successful Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+  - Finish the [GSON Homework](https://github.com/ga-adi-nyc/GSON-Practice-HW) (Due before class on Wednesday)
 
 
-- Wed 8/3: Prepare Project 3 Pitch
+- Wed 8/3: [Read about using Trello to coordinate your team](http://buildbettersoftware.com/trello-for-software-development) _(reminder: you are **required** to use a Trello board for Project 3!)_
 
 
 - Thu 8/4: Volley Homework
