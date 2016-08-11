@@ -30,8 +30,8 @@ creator:
 | 5 min  | [Introduction](#introduction-feature-prioritization-5-mins)  | Feature Prioritization |
 | 10 min  | [Guided Practice](#guided-practice-feature-prioritization-10-mins)  | Feature Prioritization |
 | 10 min  | [Demo](#demo-feature-prioritization-10-mins)  | Feature Prioritization |
-| 30 min  | [Guided Practice](#guided-practice-creating-a-2x2-matrix-30-mins)  | Creating a 2x2 Matrix |
-| 20 min  | [Independent Practice](#independent-practice-create-a-2x2-matrix-for-project-3-20-minutes)  | Create a 2x2 Matrix for Project 3 |
+| 30 min  | [Group Practice](#guided-practice-creating-a-2x2-matrix-30-mins)  | Creating a 2x2 Matrix |
+| 20 min  | [Group Practice](#independent-practice-create-a-2x2-matrix-for-project-3-20-minutes)  | Create a 2x2 Matrix for Project 3 |
 | 5 min  | [Conclusion](#conclusion-5-mins)  | Review / Recap |
 
 ## Opening (5 mins)
