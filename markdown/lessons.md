@@ -115,5 +115,5 @@
   - [Git Team Workflow Part 2](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/git-team-workflow-part-2)
   - [Retrofit](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/retrofit-lesson)
   - [External Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/external-content-providers-lesson)
-  - Feature Prioritization
+  - [Feature Prioritization](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/prioritization-proposal-lesson)
   - Job Schedulers

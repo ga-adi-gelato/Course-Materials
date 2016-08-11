@@ -7,4 +7,4 @@
 - [Competitor Research](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/competitive-research-lesson) (Friday, 8/5)
 - [User Goals and User Flows](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-goals-and-flows-lesson) (Friday, 8/5)
 - [User Personas](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-personas-lesson) (Tuesday, 8/9)
-- Feature Prioritization (Thursday, 8/11)
+- [Feature Prioritization](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/prioritization-proposal-lesson) (Thursday, 8/11)
