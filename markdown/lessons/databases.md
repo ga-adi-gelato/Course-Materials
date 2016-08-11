@@ -10,4 +10,4 @@
 - [Joins](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/joins-lesson) (Friday, 7/15)
 - [Database Relationships Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/database-relationships-lesson) (Read for HW - Friday, 7/15)
 - [Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/content-provider-lesson) (Tuesday, 8/9)
-- External Content Proviers (Thursday, 8/11)
+- [External Content Proviers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/external-content-providers-lesson) (Thursday, 8/11)
