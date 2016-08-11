@@ -57,12 +57,13 @@ Finding a balance between business needs, user goals, and design ideas is really
 
 ## Guided Practice: Feature Prioritization (10 mins)
 
-Think about your in-­class project on a vacation app. Remember, you interviewed each other about this a few classes ago. In pairs, think about these questions:
+Take a few minutes to split up into your project groups.
+Together, think about your group project. Remember, you had to perform user interviews for your app. Think about these questions:
 
 - Did your personas have more goals, beyond the primary user goal?
 - What user goals did you decide to address? Do those goals require more functionality?
 
-Write on Post-­its all of the features you think would address these goals and align with the needs of users for this app.
+Write on Post-its all of the features you think would address these goals and align with the needs of users for your app.
 
 ## Demo: Feature Prioritization (10 mins)
 
@@ -80,9 +81,9 @@ The goal is to identify want things that have high value and low cost.
   <img src="https://i.imgur.com/tc7luEA.png">
 </p>
 
-## Guided Practice: Creating a 2x2 Matrix (30 mins)
+## Group Practice: Creating a 2x2 Matrix (30 mins)
 
-Split up into groups of 4-5.  With your group, you'll take the next 15 minutes and practice creating a 2x2 matrix to prioritize the list of features you've decided on for the vacation app.
+With your group, you'll take the next 15 minutes and practice creating a 2x2 matrix to prioritize the list of features you've decided on for your group project.
 
 Using that list of features you created, combine them all together and remove any duplicates. You might look for a cluster of features that seem like they offer great impact to your users, relative to the amount of effort required. There may be an idea that’s an outlier that is so worth it to your users that it’s worth the effort. Just make sure you can explain your rationale.
 
@@ -90,7 +91,7 @@ Using that list of features you created, combine them all together and remove an
 > Check: After 15 minutes: What did you decide makes the most sense?  How did the prioritization method work out for your group?
 any duplicates.
 
-## Independent Practice: Create a 2x2 Matrix for Project 3 (20 minutes)
+## Group Practice: Create a 2x2 Matrix for Project 3 (20 minutes)
 
 In your groups, prioritize features for your project groups.
 
