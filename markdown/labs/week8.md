@@ -15,7 +15,9 @@
 - Wed 8/10: None
 
 
-- Thu 8/11: [External Content Provider Lab](https://github.com/ga-adi-nyc/External-Content-Providers-Lab)
+- Thu 8/11:
+  - [External Content Provider Lab](https://github.com/ga-adi-nyc/External-Content-Providers-Lab)
+  - [Project 3 Pitch Lab](https://github.com/ga-adi-nyc/Project-3-Pitch-Lab)
 
 
-- Fri 8/12: Sync Adapter Lab
+- Fri 8/12: Job Scheduler Lab
