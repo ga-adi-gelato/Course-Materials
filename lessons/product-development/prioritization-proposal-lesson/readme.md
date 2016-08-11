@@ -22,10 +22,6 @@ creator:
 - Conduct an effective user interview
 - Draft a research plan and write a discussion guide for final project interviews
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Gather Post-it notes and black sharpies
-
 ### LESSON GUIDE
 
 | TIMING  | TYPE  | TOPIC  |
@@ -40,7 +36,7 @@ creator:
 
 ## Opening (5 mins)
 
-You’ve gone through two full sprints of the UX/design thinking process: Research > Hypothesis > Prototype > Test. Now you have some insights around how to move forward, which major parts are/aren’t working. Today we’re going to talk about what’s next, beyond meeting that primary user goal.
+You’ve gone through a few sprints of the UX/design thinking process: Research > Hypothesis > Prototype > Test. Now you have some insights around how to move forward, which major parts are/aren’t working. Today we’re going to talk about what’s next, beyond meeting that primary user goal.
 
 ## Introduction: Feature Prioritization (5 mins)
 
@@ -102,8 +98,6 @@ In your groups, prioritize features for your project groups.
 - List out all the features that would make these goals possible
 - Prioritize using a 2x2 matrix and use the prioritization results to help you decide which features make the most sense for your user goals and client constraints
 - Make sure you document your work by taking a photo - you'll need this for the next lab
-
-> Instructor Note: Instructional staff should circulate around the room and help students as needed.
 
 ## Conclusion (5 mins)
 
