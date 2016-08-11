@@ -109,11 +109,11 @@
   - [Services](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/services-lesson)
   - [Notifications](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/notifications-lesson)
   - [User Personas](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/user-personas-lesson)
-  - Google Play Services
-  - Content Providers
-  - Git Team Workflow Part 1
-  - Git Team Workflow Part 2
-  - Retrofit
-  - External Content Providers
+  - [Google Play Services](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/google-play-services-lesson)
+  - [Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/content-provider-lesson)
+  - [Git Team Workflow Part 1](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/git-team-workflow-part-1)
+  - [Git Team Workflow Part 2](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/workflow-and-dev-tools/git-team-workflow-part-2)
+  - [Retrofit](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/retrofit-lesson)
+  - [External Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/external-content-providers-lesson)
   - Feature Prioritization
   - Sync Adapters
