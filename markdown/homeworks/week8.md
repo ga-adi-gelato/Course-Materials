@@ -19,7 +19,10 @@
   - Finish the [GSON Homework](https://github.com/ga-adi-nyc/GSON-Practice-HW) (Due before class on Thursday)
 
 
-- Thu 8/4: Volley Homework
+- Thu 8/4:
+  - Required: [Watch this video](https://youtu.be/QdINLG5QrJc) about JobScheduler as a preview for Friday
+  - Optional: Also read [parts 1 & 2 of this article](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html) about JobScheduler
+  - Optional: Volley Homework
 
 
 - Fri 8/5: Work on Project 3
