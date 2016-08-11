@@ -22,7 +22,7 @@
 - Thu 8/4:
   - Required: [Watch this video](https://youtu.be/QdINLG5QrJc) about JobScheduler as a preview for Friday
   - Optional: Also read [parts 1 & 2 of this article](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html) about JobScheduler
-  - Optional: Volley Homework
+  - Optional: [Volley Homework](https://github.com/ga-adi-nyc/Volley-HW)
 
 
 - Fri 8/5: Work on Project 3
