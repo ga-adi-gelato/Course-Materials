@@ -36,7 +36,7 @@ creator:
 | 20 min  | [Guided Practice](#guided-practice-create-a-persona-in-pairs-20-mins)  | Create a Persona in Pairs |
 | 30 min  | [Independent practice](#independent-practice-create-personas-from-project-interviews-30-mins)  | Create Personas from Project Interviews |
 | 5 min  | [Conclusion](#conclusion-5-mins)  | Review / Recap |
-- Print out *a lot* of copies of the [personas worksheet](assets/personas-worksheet.ai) and and enough [research highlight worksheet](assets/research-highlights-worksheet.ai) for all students
+- Print out *a lot* of copies of the [personas worksheet](assets/personas-worksheet.pdf) and and enough [research highlight worksheet](assets/research-highlights-worksheet.pdf) for all students
 ## Opening (5 mins)
 
 “In synthesis, you’re trying to find meaning in your data. This is often a messy process — and can mean reading between the lines and not taking a quote or something observed at face value. The why behind a piece of data is always more important than the what.”  ­  
@@ -95,7 +95,7 @@ Give each grouping a title that summarizes the essence of that grouping.
 
 **Pro Tip**: Separate themes by goals, not behaviors. It’s possible that not all post-its will fall into a big grouping, and that’s okay.
 
-> Instructor note: Post-­its may not stick well to the wall. Urge students to use the desks. If students need help organizing their thoughts, distribute the [research highlights worksheet](assets-research-highlights-worksheet.ai) and have them use that.
+> Instructor note: Post-­its may not stick well to the wall. Urge students to use the desks. If students need help organizing their thoughts, distribute the [research highlights worksheet](assets-research-highlights-worksheet.pdf) and have them use that.
 
 > Check: What trends are you seeing?
 
@@ -143,7 +143,7 @@ How about a "good" one:
 
 ## Guided Practice: Create a Persona in Pairs (20 mins)
 
-Each group of 4 should break up again into pairs. Take your synthesized research findings from the previous activity and work with your partner to create a persona based on your findings.  Fill out the as many [personas worksheets](Worksheets(assets/personas-worksheet.ai) as needed to do this.
+Each group of 4 should break up again into pairs. Take your synthesized research findings from the previous activity and work with your partner to create a persona based on your findings.  Fill out the as many [personas worksheets](Worksheets(assets/personas-worksheet.pdf) as needed to do this.
 
 
 If your users have very different goals, you may need more than one. We can’t tell you how many personas to make!
@@ -164,7 +164,7 @@ You'll have 5 minutes at the end of this activity to present their personas.
 ## Independent practice: Create Personas from Project Interviews (30 mins)
 
 
-Now, it's time to apply this to project 3 - get into your project groups, take the research from your homework interviews, affinity map and build personas using new [personas worksheets](assets/personas-worksheet.ai).
+Now, it's time to apply this to project 3 - get into your project groups, take the research from your homework interviews, affinity map and build personas using new [personas worksheets](assets/personas-worksheet.pdf).
 > Instructor Note: If a group/student has not done their interviews/research from the night before, they will work with what their team has.
 
 For this activity:
