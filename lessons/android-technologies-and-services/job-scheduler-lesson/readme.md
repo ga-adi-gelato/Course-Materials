@@ -9,12 +9,12 @@ creator:
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
-- Describe what features Google Play Services offers
-- Set up and use the Analytics API
+- Describe the components of a JobScheduler
+- Set up a task and schedule it to run under certain conditions
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Make APIs calls
+- Implement a Service class
 
 ---
 
