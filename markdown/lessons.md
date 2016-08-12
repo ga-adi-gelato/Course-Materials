@@ -116,4 +116,4 @@
   - [Retrofit](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/retrofit-lesson)
   - [External Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/external-content-providers-lesson)
   - [Feature Prioritization](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/prioritization-proposal-lesson)
-  - Job Schedulers
+  - [JobSchedulers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/job-scheduler-lesson)
