@@ -205,6 +205,7 @@ JobInfo job = new JobInfo.Builder(12321,
  And now our job will be run every 5 seconds.
 
 ***
+
 <a name="guided-practice-testing"></a>
 ## Guided Practice: Testing that our job runs only under our conditions (15 mins)
 
