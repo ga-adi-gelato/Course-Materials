@@ -42,7 +42,7 @@ JobScheduler in our apps, and implementing them to perform a certain task.
 <a name="introduction"></a>
 ## Introduction: What is a JobScheduler (15 mins)
 
-In API version 20, aka Android Lollipop, Google introduced the JobScheduler.
+In API version 21, aka Android Lollipop, Google introduced the JobScheduler.
 JobSchedulers allow your app to schedule different tasks to take place under specific
 requirements. For example, you can have your app perform tasks only when the device
 is using a Wi-Fi connection, charging, and is not currently being handled by the user.
