@@ -16,7 +16,7 @@
 
 
 - Thu 8/11:
-  - [External Content Provider Lab](https://github.com/ga-adi-nyc/External-Content-Providers-Lab)
+  - [External Content Provider Lab](https://github.com/ga-adi-nyc/External-Content-Providers-Lab) &#x2705;
   - [Project 3 Pitch Lab](https://github.com/ga-adi-nyc/Project-3-Pitch-Lab)
 
 
