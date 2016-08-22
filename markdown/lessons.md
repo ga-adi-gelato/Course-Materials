@@ -124,7 +124,7 @@
 
 - Week 10
   - [Whiteboard Morning Exercise 5](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise5)
-  - SyncAdapters
+  - [SyncAdapters](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/sync-adapters-lesson)
   - Firebase
   - Third Party Libraries
   - Linked Lists
