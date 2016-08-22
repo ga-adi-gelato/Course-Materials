@@ -62,6 +62,9 @@ Take turns working through these problems on the whiteboard. It's OK if you don'
 	}
     ```
 
+	Diagram of a sample call: `getMagicIndexRecursively( [-4, 1, 3, 8, 9] )`
+	![magic-index](images/magic-index.png)
+
 2. Write a method to return all permutations of a string of unique characters.
 
 	Hint: you don't always have to return the value of a recursive call immediately. Sometimes you might want to make the recursive call, modify the result, then return that.
@@ -98,6 +101,9 @@ Take turns working through these problems on the whiteboard. It's OK if you don'
 		return permutations;
 	}
     ```
+
+	Diagram of a sample call: `getPermutations("abc")`
+	![permutations](images/permutations.png)
 
 
 #### Deliverable
