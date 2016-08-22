@@ -16,7 +16,7 @@
   - Project demos/presentations: Friday, 8/19
 
 
-- Project 4 - Final Project: Due Tuesday, 9/13
+- [Project 4 - Final Project](https://github.com/ga-adi-nyc/Project-4-Portfolio-Project): Due Tuesday, 9/13
   - Pitch/proposal presentations: Thursday, 8/25
   - Project demos/presentations: Tuesday, 9/13
 
