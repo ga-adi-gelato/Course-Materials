@@ -117,3 +117,14 @@
   - [External Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/external-content-providers-lesson)
   - [Feature Prioritization](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/prioritization-proposal-lesson)
   - [JobSchedulers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/job-scheduler-lesson)
+
+
+- Week 9 - Project 3 Week
+
+
+- Week 10
+  - SyncAdapters
+  - Firebase
+  - Third Party Libraries
+  - Linked Lists
+  - Sorting Algorithms
