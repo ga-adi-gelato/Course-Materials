@@ -2,7 +2,7 @@
 
 &#x2705; = solution posted
 
-- Mon 8/22: SyncAdapters Lab
+- Mon 8/22: [SyncAdapters Lab](https://github.com/ga-adi-nyc/Sync-Adapters-Lab)
 
 
 - Tue 8/23: Firebase Lab
