@@ -8,3 +8,4 @@
 - [OAuth](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/oauth-lesson) (Thursday, 8/4)
 - [GSON](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/gson-lesson) (Monday, 8/8)
 - [Retrofit](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/retrofit-lesson) (Thursday, 8/11)
+- [Sync Adapters Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/sync-adapters-lesson) (Monday, 8/22)

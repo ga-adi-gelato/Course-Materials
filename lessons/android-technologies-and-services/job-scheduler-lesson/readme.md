@@ -9,12 +9,12 @@ creator:
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
-- Describe what features Google Play Services offers
-- Set up and use the Analytics API
+- Describe the components of a JobScheduler
+- Set up a task and schedule it to run under certain conditions
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
-- Make APIs calls
+- Implement a Service class
 
 ---
 
@@ -42,7 +42,7 @@ JobScheduler in our apps, and implementing them to perform a certain task.
 <a name="introduction"></a>
 ## Introduction: What is a JobScheduler (15 mins)
 
-In API version 20, aka Android Lollipop, Google introduced the JobScheduler.
+In API version 21, aka Android Lollipop, Google introduced the JobScheduler.
 JobSchedulers allow your app to schedule different tasks to take place under specific
 requirements. For example, you can have your app perform tasks only when the device
 is using a Wi-Fi connection, charging, and is not currently being handled by the user.
@@ -153,7 +153,8 @@ We also need to add this `Service` to our AndroidManifest.
 <service android:name=".MyJobService"
             android:permission="android.permission.BIND_JOB_SERVICE"
             android:exported="true"/>
-            ```
+```
+
 ***
 
 <a name="guided-practice-setting-up-job-constraints-with-job-info-30-mins"></a>
@@ -204,6 +205,7 @@ JobInfo job = new JobInfo.Builder(12321,
  And now our job will be run every 5 seconds.
 
 ***
+
 <a name="guided-practice-testing"></a>
 ## Guided Practice: Testing that our job runs only under our conditions (15 mins)
 

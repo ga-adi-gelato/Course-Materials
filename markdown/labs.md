@@ -8,6 +8,8 @@
 - [Week 6](labs/week6.md) (7/25 - 7/29)
 - [Week 7](labs/week7.md) (8/1 - 8/5)
 - [Week 8](labs/week8.md) (8/8 - 8/12)
+- [Week 9](labs/week9.md) (8/15 - 8/19)
+- [Week 10](labs/week10.md) (8/22 - 8/26)
 
 
 ---

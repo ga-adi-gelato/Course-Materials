@@ -116,4 +116,17 @@
   - [Retrofit](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/retrofit-lesson)
   - [External Content Providers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/external-content-providers-lesson)
   - [Feature Prioritization](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/product-development/prioritization-proposal-lesson)
-  - Job Schedulers
+  - [JobSchedulers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/job-scheduler-lesson)
+
+
+- Week 9 - Project 3 Week
+
+
+- Week 10
+  - [Whiteboard Morning Exercise 5](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise5)
+  - [SyncAdapters](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/sync-adapters-lesson)
+  - [Whiteboard Morning Exercise 6](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise6)
+  - Firebase
+  - Third Party Libraries
+  - Linked Lists
+  - Sorting Algorithms
