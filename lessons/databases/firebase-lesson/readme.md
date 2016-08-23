@@ -18,13 +18,6 @@ creator:
 *Before this lesson, you should already be able to:*
 - Describe the basics of databases
 
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-- Read through the lesson
-- Add additional instructor notes as needed
-- Edit language or examples to fit your ideas and teaching style
-- Open, read, run, and edit (optional) the starter and solution code to ensure it's working and that you agree with how the code was written
-
 ---
 
 ### LESSON GUIDE
