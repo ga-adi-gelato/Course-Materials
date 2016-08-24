@@ -127,6 +127,5 @@
   - [SyncAdapters](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/sync-adapters-lesson)
   - [Whiteboard Morning Exercise 6](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise6)
   - [Firebase](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/firebase-lesson)
-  - Third Party Libraries
   - Linked Lists
   - Sorting Algorithms
