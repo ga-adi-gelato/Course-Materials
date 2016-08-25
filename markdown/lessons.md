@@ -124,8 +124,9 @@
 
 - Week 10
   - [Whiteboard Morning Exercise 5](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise5)
-  - SyncAdapters
-  - Firebase
-  - Third Party Libraries
+  - [SyncAdapters](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/sync-adapters-lesson)
+  - [Whiteboard Morning Exercise 6](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise6)
+  - [Firebase](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/firebase-lesson)
+  - [Whiteboard Morning Exercise 7](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise7)
   - Linked Lists
   - Sorting Algorithms

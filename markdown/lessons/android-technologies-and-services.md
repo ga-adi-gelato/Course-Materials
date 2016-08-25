@@ -9,6 +9,5 @@
 - [Notifications](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/user-interface/notifications-lesson) (Monday, 8/8)
 - [Google Play Services](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/google-play-services-lesson) (Tuesday, 8/9)
 - [JobSchedulers](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/job-scheduler-lesson) (Friday, 8/12)
-- SyncAdapters (Monday, 8/22)
-- Firebase (Tuesday, 8/23)
-- Third Party Libraries (Wednesday, 8/24)
+- [Sync Adapters Lesson](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/web-communication/sync-adapters-lesson) (Monday, 8/22)
+- [Firebase](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/firebase-lesson) (Tuesday, 8/23)
