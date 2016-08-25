@@ -15,7 +15,7 @@
 
 
 - Thu 8/25:
-  - Linked lists homework
+  - [Reverse a Linked List HW](https://github.com/ga-adi-nyc/Linked-Lists-HW)
   - Revise Project 4 pitch based on feedback
 
 
