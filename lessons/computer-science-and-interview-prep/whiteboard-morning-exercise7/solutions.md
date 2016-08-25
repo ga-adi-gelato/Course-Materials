@@ -21,6 +21,8 @@ Team up in groups of 2 or 3 and take turns working on the following problems. Pr
 
 Take turns working through these problems on the whiteboard. It's OK if you don't finish them all. Make as much progress as you can.
 
+Today's problems are from [Interview Cake](https://www.interviewcake.com/), which is a great resource for whiteboarding and interview preparation.
+
 1. Write a function to reverse a string. Do not use `StringBuilder`'s `reverse()` method.
 
 	One possible solution:

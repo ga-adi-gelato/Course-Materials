@@ -21,6 +21,8 @@ Team up in groups of 2 or 3 and take turns working on the following problems. Pr
 
 Take turns working through these problems on the whiteboard. It's OK if you don't finish them all. Make as much progress as you can.
 
+Today's problems are from [Interview Cake](https://www.interviewcake.com/), which is a great resource for whiteboarding and interview preparation.
+
 Suppose we could access yesterday's stock prices as an array, where:
   - The indices are the time in minutes past trade opening time, which was 9:30am local time.
   - The values are the price in dollars of Apple stock at that time.
