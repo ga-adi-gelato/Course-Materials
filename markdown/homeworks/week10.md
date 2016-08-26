@@ -15,7 +15,7 @@
 
 
 - Thu 8/25:
-  - [Reverse a Linked List HW](https://github.com/ga-adi-nyc/Linked-Lists-HW)
+  - [Reverse a Linked List HW](https://github.com/ga-adi-nyc/Linked-Lists-HW) &#x2705;
   - Revise Project 4 pitch based on feedback
 
 
