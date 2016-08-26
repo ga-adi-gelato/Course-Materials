@@ -10,5 +10,5 @@
 - [Whiteboard Morning Exercise 5](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise5) (Monday, 8/22) &#x2705;
 - [Whiteboard Morning Exercise 6](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise6) (Tuesday, 8/23) &#x2705;
 - [Whiteboard Morning Exercise 7](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise7) (Thursday, 8/25) &#x2705;
-- Linked Lists (Thursday, 8/25)
+- [Arrays and Lists](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/arrays-and-lists-review-lesson) (Thursday, 8/25)
 - Sorting Algorithms (Friday, 8/26)
