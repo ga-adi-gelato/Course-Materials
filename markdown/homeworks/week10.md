@@ -20,5 +20,5 @@
 
 
 - Fri 8/26:
-  - Sorting algorithm homework
+  - [Sorting algorithm homework](https://github.com/ga-adi-nyc/Insertion-Sort-HW)
   - Work on Project 4
