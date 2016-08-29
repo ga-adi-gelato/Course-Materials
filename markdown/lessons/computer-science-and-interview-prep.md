@@ -11,4 +11,8 @@
 - [Whiteboard Morning Exercise 6](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise6) (Tuesday, 8/23) &#x2705;
 - [Whiteboard Morning Exercise 7](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise7) (Thursday, 8/25) &#x2705;
 - [Arrays and Lists](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/arrays-and-lists-review-lesson) (Thursday, 8/25)
-- Sorting Algorithms (Friday, 8/26)
+- [Sorting Algorithms](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/sorting-algorithms) (Friday, 8/26)
+- [Whiteboard Morning Exercise 8](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise8) (Monday, 8/29) &#x2705;
+- Merge Sort (Monday, 8/29)
+- Binary Search (Tuesday, 8/30)
+- Big O Notation (Wednesday, 8/31)

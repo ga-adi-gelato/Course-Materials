@@ -15,10 +15,10 @@
 
 
 - Thu 8/25:
-  - [Reverse a Linked List HW](https://github.com/ga-adi-nyc/Linked-Lists-HW)
+  - [Reverse a Linked List HW](https://github.com/ga-adi-nyc/Linked-Lists-HW) &#x2705;
   - Revise Project 4 pitch based on feedback
 
 
 - Fri 8/26:
-  - Sorting algorithm homework
+  - [Insertion Sort HW](https://github.com/ga-adi-nyc/Insertion-Sort-HW)
   - Work on Project 4

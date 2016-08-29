@@ -129,10 +129,11 @@
   - [Firebase](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/databases/firebase-lesson)
   - [Whiteboard Morning Exercise 7](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise7)
   - [Arrays and Lists](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/arrays-and-lists-review-lesson)
-  - Sorting Algorithms
+  - [Sorting Algorithms](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/sorting-algorithms)
 
 
 - Week 11
+  - [Whiteboard Morning Exercise 8](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise8)
   - Merge Sort
   - Binary Search
   - Big O Notation

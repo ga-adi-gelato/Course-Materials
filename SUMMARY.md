@@ -24,6 +24,7 @@
    * [Week 8](markdown/labs/week8.md)
    * [Week 9](markdown/labs/week9.md)
    * [Week 10](markdown/labs/week10.md)
+   * [Week 11](markdown/labs/week11.md)
 * [Homework](markdown/homework.md)
    * [Week 1](markdown/homeworks/week1.md)
    * [Week 2](markdown/homeworks/week2.md)
@@ -35,4 +36,5 @@
    * [Week 8](markdown/homeworks/week8.md)
    * [Week 9](markdown/homeworks/week9.md)
    * [Week 10](markdown/homeworks/week10.md)
+   * [Week 11](markdown/homeworks/week11.md)
 * [Projects](markdown/projects.md)

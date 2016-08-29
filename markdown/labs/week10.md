@@ -11,7 +11,7 @@
 - Wed 8/24: [Third Party Libraries Lab](https://github.com/ga-adi-nyc/third-party-libraries-lab)
 
 
-- Thu 8/25: [Linked Lists Lab](https://github.com/ga-adi-nyc/linked-list-lab)
+- Thu 8/25: [Linked Lists Lab](https://github.com/ga-adi-nyc/linked-list-lab) &#x2705;
 
 
-- Fri 8/26: Sorting Algorithms Lab
+- Fri 8/26: [Sorting Algorithms Lab](https://github.com/ga-adi-nyc/Sorting-Algorithms-Lab)

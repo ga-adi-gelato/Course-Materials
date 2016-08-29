@@ -1,7 +1,5 @@
 # Week 8 Homework
 
-&#x2705; = solution posted
-
 - Mon 8/1:
   - [GSON Homework](https://github.com/ga-adi-nyc/GSON-Practice-HW) (This HW has an extended deadline due to this week's challenging labs - due before class on Thursday)
   - [Read about Content Providers](http://www.grokkingandroid.com/android-tutorial-content-provider-basics/) as a preview for Tuesday
