@@ -16,6 +16,13 @@ public class Algorithms {
 
     private int[] merge(int[] firstArray, int[] secondArray){
         int[] result = null;
+        
+        /*
+            Code in your merging algorithm here
+            You should put your merged result into the result array.
+            *Note* You need to make sure you properly initialize your
+            result array.
+        */
 
         return result;
     }
