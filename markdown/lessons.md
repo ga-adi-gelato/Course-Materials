@@ -134,9 +134,11 @@
 
 - Week 11
   - [Whiteboard Morning Exercise 8](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise8)
-  - Merge Sort
+  - [Merge Sort](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/merge-sort-lesson)
+  - Whiteboard Morning Exercise 9
   - Binary Search
   - Big O Notation
+  - Whiteboard Morning Exercise 10
 
 
 - Week 12
