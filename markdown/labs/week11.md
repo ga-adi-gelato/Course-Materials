@@ -2,7 +2,7 @@
 
 &#x2705; = solution posted
 
-- Mon 8/29: Merge Sort Lab
+- Mon 8/29: [Merge Sort Lab](https://github.com/ga-adi-nyc/Merge-Sort-Lab)
 
 
 - Tue 8/30: Binary Search Lab
