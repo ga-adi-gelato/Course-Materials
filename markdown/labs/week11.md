@@ -5,7 +5,7 @@
 - Mon 8/29: [Merge Sort Lab](https://github.com/ga-adi-nyc/Merge-Sort-Lab)
 
 
-- Tue 8/30: Binary Search Lab
+- Tue 8/30: [Binary Search Lab](https://github.com/ga-adi-nyc/Binary-Search-Lab)
 
 
 - Wed 8/31: Big O Notation Lab
