@@ -137,7 +137,7 @@
   - [Merge Sort](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/merge-sort-lesson)
   - [Whiteboard Morning Exercise 9](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise9)
   - [Binary Search](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/search-lesson)
-  - Big O Notation
+  - [Big O Notation](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/big-o-lesson)
   - Whiteboard Morning Exercise 10
 
 
