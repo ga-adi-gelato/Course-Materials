@@ -174,7 +174,7 @@ Why _logarithmic_ time, you may ask? Basically, that is because it only takes lo
 
 Most algorithms that utilize a "divide and conquer" strategy are computed in some form of logarithmic time, including __Merge Sort__, that operates at an average and worst time of O(n log n). Consider what would happen if the phone book in the example above had its pages in a random order and now must be put into order.
 
-> Instructor Note: With the students' help, raw a table of how many steps are required, the subproblem size at each step, and the work done at each step. Demonstrate how this adds up to n * log<sub>2</sub>(n) total work.
+> Instructor Note: With the students' help, [draw a table](https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/analysis-of-merge-sort) of how many steps are required, the subproblem size at each step, and the work done at each step. Demonstrate how this adds up to n * log<sub>2</sub>(n) total work.
 
 ## Introduction: Common Complexity Types (15 mins)
 
@@ -191,7 +191,7 @@ We've already talked about a few of these, but every row listed in this table is
 | O(c<sup>n</sup>), for c > 1 | exponential |
 | O(n!) | factorial |
 
-> Instructor Note: Quickly review constant, logarithmic, linear, linearithmic, and quadratic.  Explain and demonstrate examples of polynomial, exponential (e.g. recursive fibonacci), and factorial (e.g. finding all permutations).  
+> Instructor Note: Quickly review constant, logarithmic, linear, linearithmic, and quadratic.  Explain and demonstrate examples of polynomial, exponential (e.g. [recursive fibonacci](http://homepage.cs.uiowa.edu/~sriram/80/spring2009/notes/exponentialRunningTime.html)), and factorial (e.g. finding all permutations).
 
 Let's look at a graphical representation of how the number of operations (time) grows with the number of input elements for various orders of complexity:   
 
