@@ -17,4 +17,3 @@
 - [Whiteboard Morning Exercise 9](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise9) (Tuesday, 8/30) &#x2705;
 - [Binary Search](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/search-lesson) (Tuesday, 8/30)
 - [Big O Notation](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/big-o-lesson) (Wednesday, 8/31)
-- Whiteboard Morning Exercise 10 (Thursday, 9/1)
