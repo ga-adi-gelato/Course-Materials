@@ -5,7 +5,7 @@
 - Mon 8/22: [SyncAdapters Lab](https://github.com/ga-adi-nyc/Sync-Adapters-Lab) &#x2705;
 
 
-- Tue 8/23: [Firebase Lab](https://github.com/ga-adi-nyc/Firebase-Lab)
+- Tue 8/23: [Firebase Lab](https://github.com/ga-adi-nyc/Firebase-Lab) &#x2705;
 
 
 - Wed 8/24: [Third Party Libraries Lab](https://github.com/ga-adi-nyc/third-party-libraries-lab)

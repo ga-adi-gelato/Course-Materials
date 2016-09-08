@@ -13,6 +13,7 @@
 - [Arrays and Lists](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/arrays-and-lists-review-lesson) (Thursday, 8/25)
 - [Sorting Algorithms](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/sorting-algorithms) (Friday, 8/26)
 - [Whiteboard Morning Exercise 8](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise8) (Monday, 8/29) &#x2705;
-- Merge Sort (Monday, 8/29)
-- Binary Search (Tuesday, 8/30)
-- Big O Notation (Wednesday, 8/31)
+- [Merge Sort](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/merge-sort-lesson) (Monday, 8/29)
+- [Whiteboard Morning Exercise 9](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/whiteboard-morning-exercise9) (Tuesday, 8/30) &#x2705;
+- [Binary Search](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/search-lesson) (Tuesday, 8/30)
+- [Big O Notation](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/computer-science-and-interview-prep/big-o-lesson) (Wednesday, 8/31)
