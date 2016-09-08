@@ -141,4 +141,4 @@
 
 
 - Week 12
-  - Releasing Your App
+  - [Releasing Your App](https://github.com/ga-adi-nyc/Course-Materials/tree/master/lessons/android-technologies-and-services/releasing-your-apps-lesson)
