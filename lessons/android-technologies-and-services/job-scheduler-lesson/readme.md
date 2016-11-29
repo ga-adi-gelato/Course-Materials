@@ -10,7 +10,7 @@ creator:
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 - Describe the components of a JobScheduler
-- Set up a task and schedule it to run under certain conditions
+- Set up a job and schedule it to run under certain conditions
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
@@ -52,7 +52,6 @@ your user to keep your app installed on their device.
 
 ***
 
->Note: Open the project contained in the starter code.
 
 <a name="demo-job-scheduler-components-5"></a>
 ## Demo: Components used with JobScheduler (5 mins)
@@ -78,7 +77,11 @@ public class MyJobService extends JobService {
   @Override
     public boolean onStartJob(JobParameters jobParameters) {
       //Implement task in here
-      //return true if the job will take a long time to complete
+
+      //Set to true if job needs to be rescheduled
+      jobFinished(mParameters, false); //tell the JobScheduler we have completed the job
+
+      //return true if the job will take a long time to complete, or it will be rescheduled
       //return false if the job is very short
         return false;
     }
@@ -93,6 +96,83 @@ public class MyJobService extends JobService {
 
 }
 ```
+
+We also need to add this `Service` to our AndroidManifest.
+
+```xml
+<service android:name=".MyJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"/>
+```
+
+***
+
+<a name="guided-practice-setting-up-job-constraints-with-job-info-30-mins"></a>
+## Guided Practice: Setting up a JobInfo object for certain conditions (30 mins)
+
+  Let us now switch over to our `MainActivity` to build our `JobInfo` object for our `JobScheduler` to use.
+
+Inside the `onCreate()` let us instantiate a `JobInfo.Builder` to help us build our `JobInfo` object.
+
+```java
+public static final int JOB_ID = 1;
+//The jobId can be any integer you want it to be
+//The class name should be the name
+//of the JobService you created
+JobInfo job = new JobInfo.Builder(JOB_ID,
+  new ComponentName(getPackageName(),
+  MyJobService.class.getName()))
+```
+ We can now set the conditions we want our job to run under.
+
+ ```java
+ //The jobId can be any integer you want it to be
+ //The class name should be the name
+ //of the JobService you created
+ JobInfo job = new JobInfo.Builder(12321,
+   new ComponentName(this,
+   MyJobService.class))
+        .setPeriodic(5000) //This ensures our job runs every 5 seconds.
+        .build();
+ ```
+
+ We can also pass extra data into our jobs using a PersistedBundle
+
+ ```java
+ //Near where you create the JobInfo
+ PersistableBundle periodicBundle = new PersistableBundle();
+         periodicBundle.putString("type","Periodic");
+
+//Added call in JobInfo Builder
+.setExtras(periodicBundle)
+
+//Retrieve data in JobService
+jobParameters.getExtras().getString("type")
+ ```
+
+
+
+ ***
+
+ <a name="guided-practice-scheduling"></a>
+ ## Guided Practice: Using the JobScheduler to schedule our job (10 mins)
+
+ Now that we have set up our `JobInfo` object we now need to schedule that job to be run. This is where the `JobScheduler` comes in. `JobScheduler` is a system provided service; so we need to get a reference to that by using `getSystemService(JOB_SCHEDULER_SERVICE)`
+
+ ```java
+ JobScheduler jobScheduler =
+ (JobScheduler) getSystemService(JOB_SCHEDULER_SERVICE);
+ ```
+
+ Now we can call the `schedule()` method on the `JobScheduler` to schedule our job.
+
+ ```java
+ jobScheduler.schedule(job);
+ ```
+ And now our job will be run every 5 seconds.
+
+***
+
+## Guided Practice: Running tasks in the background
 
 Let us now add an AsyncTask to perform some work in the background.
 
@@ -120,7 +200,7 @@ Now in our `onStartJob` method let's set up our AsyncTask.
               //A helper class to format the time we get into human readable Strings
               SimpleDateFormat format = new SimpleDateFormat("hh:mm:ss");
 
-              String newText = "New Text " + format.format(cal.getTime());
+              String newText = "Current Time: " + format.format(cal.getTime());
 
               return newText;
            }
@@ -147,62 +227,6 @@ We need to take care of the `onStopJob()` implementation now.
        return false;
    }
 ```
-We also need to add this `Service` to our AndroidManifest.
-
-```xml
-<service android:name=".MyJobService"
-            android:permission="android.permission.BIND_JOB_SERVICE"
-            android:exported="true"/>
-```
-
-***
-
-<a name="guided-practice-setting-up-job-constraints-with-job-info-30-mins"></a>
-## Guided Practice: Setting up a JobInfo object for certain conditions (30 mins)
-
-  Let us now switch over to our `MainActivity` to build our `JobInfo` object for our `JobScheduler` to use.
-
-Inside the `onCreate()` let us instantiate a `JobInfo.Builder` to help us build our `JobInfo` object.
-
-```java
-//The jobId can be any integer you want it to be
-//The class name should be the name
-//of the JobService you created
-JobInfo job = new JobInfo.Builder(12321,
-  new ComponentName(getPackageName(),
-  MyJobService.class.getName()))
-```
- We can now set the conditions we want our job to run under.
-
- ```java
- //The jobId can be any integer you want it to be
- //The class name should be the name
- //of the JobService you created
- JobInfo job = new JobInfo.Builder(12321,
-   new ComponentName(getPackageName(),
-   MyJobService.class.getName()))
-        .setPeriodic(5_000) //This ensures our job runs every 5 seconds.
-        .build();
- ```
-
- ***
-
- <a name="guided-practice-scheduling"></a>
- ## Guided Practice: Using the JobScheduler to schedule our job (10 mins)
-
- Now that we have set up our `JobInfo` object we now need to schedule that job to be run. This is where the `JobScheduler` comes in. `JobScheduler` is a system provided service; so we need to get a reference to that by using `getSystemService(JOB_SCHEDULER_SERVICE)`
-
- ```java
- JobScheduler jobScheduler =
- (JobScheduler) getSystemService(JOB_SCHEDULER_SERVICE);
- ```
-
- Now we can call the `schedule()` method on the `JobScheduler` to schedule our job.
-
- ```java
- jobScheduler.schedule(job);
- ```
- And now our job will be run every 5 seconds.
 
 ***
 
@@ -222,22 +246,18 @@ JobInfo job = new JobInfo.Builder(12321,
   new ComponentName(getPackageName(),
   MyJobService.class.getName()))
        .setRequiredNetworkType(JobInfo.NETWORK_TYPE_ANY) //This ensures our job only runs when the user has a Wi-Fi connection
-       .setRequiresCharging(true) //This ensures our job only runs if the phone is also charging
        .build();
 ```
 
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: Topic (25 mins)
+## Independent Practice: Topic (15 mins)
 
 Now that you know how to set up the components of the `JobScheduler` let's get some more practice.
 
-Create another job that runs every 7 seconds and prints out the date as the new text.
+Create another job that runs every 15 seconds when the device is charging and idle.
 
->Hint: If you don't want to create another JobService class, you can pass in a PersistedBundle using the setExtras method in the JobInfo.Builder
-
-> Check: Were you able to create the desired deliverable(s)? Did it meet all necessary requirements / constraints?
 
 ***
 
